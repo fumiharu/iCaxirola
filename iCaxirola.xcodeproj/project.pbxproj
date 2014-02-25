@@ -36,8 +36,6 @@
 		27500B1F18ABA60400703749 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 27500B1E18ABA60400703749 /* SystemConfiguration.framework */; };
 		27500B2218ABA6E400703749 /* SettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 27500B2118ABA6E400703749 /* SettingViewController.m */; };
 		27500B2418ABAA6600703749 /* close.png in Resources */ = {isa = PBXBuildFile; fileRef = 27500B2318ABAA6600703749 /* close.png */; };
-		27500B3418B2452C00703749 /* FlagsListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 27500B3218B2452C00703749 /* FlagsListViewController.m */; };
-		27500B3518B2452C00703749 /* FlagsListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 27500B3318B2452C00703749 /* FlagsListViewController.xib */; };
 		27500B5F18B2538E00703749 /* 1_bra.png in Resources */ = {isa = PBXBuildFile; fileRef = 27500B3718B2538E00703749 /* 1_bra.png */; };
 		27500B6018B2538E00703749 /* 1_bra2.png in Resources */ = {isa = PBXBuildFile; fileRef = 27500B3818B2538E00703749 /* 1_bra2.png */; };
 		27500B6118B2538E00703749 /* 1_cmr.png in Resources */ = {isa = PBXBuildFile; fileRef = 27500B3918B2538E00703749 /* 1_cmr.png */; };
@@ -81,6 +79,9 @@
 		278D343D18B256A700EAE4E5 /* test.xib in Resources */ = {isa = PBXBuildFile; fileRef = 278D343C18B256A700EAE4E5 /* test.xib */; };
 		278D344018B3BE3800EAE4E5 /* Params.m in Sources */ = {isa = PBXBuildFile; fileRef = 278D343F18B3BE3800EAE4E5 /* Params.m */; };
 		27E78C8D18B8A7D500FD3984 /* selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 27E78C8C18B8A7D500FD3984 /* selected.png */; };
+		27F7126518BC928700A4394C /* maracas-reverse.wav in Resources */ = {isa = PBXBuildFile; fileRef = 27F7126318BC928700A4394C /* maracas-reverse.wav */; };
+		27F7126618BC928700A4394C /* maracas.wav in Resources */ = {isa = PBXBuildFile; fileRef = 27F7126418BC928700A4394C /* maracas.wav */; };
+		27F7126A18BC936700A4394C /* 1_brazil.png in Resources */ = {isa = PBXBuildFile; fileRef = 27F7126918BC936700A4394C /* 1_brazil.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -139,9 +140,6 @@
 		27500B2018ABA6E400703749 /* SettingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingViewController.h; sourceTree = "<group>"; };
 		27500B2118ABA6E400703749 /* SettingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingViewController.m; sourceTree = "<group>"; };
 		27500B2318ABAA6600703749 /* close.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = close.png; sourceTree = "<group>"; };
-		27500B3118B2452C00703749 /* FlagsListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlagsListViewController.h; sourceTree = "<group>"; };
-		27500B3218B2452C00703749 /* FlagsListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FlagsListViewController.m; sourceTree = "<group>"; };
-		27500B3318B2452C00703749 /* FlagsListViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FlagsListViewController.xib; sourceTree = "<group>"; };
 		27500B3718B2538E00703749 /* 1_bra.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1_bra.png; sourceTree = "<group>"; };
 		27500B3818B2538E00703749 /* 1_bra2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1_bra2.png; sourceTree = "<group>"; };
 		27500B3918B2538E00703749 /* 1_cmr.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1_cmr.png; sourceTree = "<group>"; };
@@ -186,6 +184,9 @@
 		278D343E18B3BE3800EAE4E5 /* Params.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Params.h; sourceTree = "<group>"; };
 		278D343F18B3BE3800EAE4E5 /* Params.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Params.m; sourceTree = "<group>"; };
 		27E78C8C18B8A7D500FD3984 /* selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = selected.png; sourceTree = "<group>"; };
+		27F7126318BC928700A4394C /* maracas-reverse.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "maracas-reverse.wav"; sourceTree = "<group>"; };
+		27F7126418BC928700A4394C /* maracas.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = maracas.wav; sourceTree = "<group>"; };
+		27F7126918BC936700A4394C /* 1_brazil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1_brazil.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -280,11 +281,10 @@
 				27500B2018ABA6E400703749 /* SettingViewController.h */,
 				27500B2118ABA6E400703749 /* SettingViewController.m */,
 				27500AF618AB8D3400703749 /* SettingViewController.xib */,
-				27500B3118B2452C00703749 /* FlagsListViewController.h */,
-				27500B3218B2452C00703749 /* FlagsListViewController.m */,
-				27500B3318B2452C00703749 /* FlagsListViewController.xib */,
 				278D343E18B3BE3800EAE4E5 /* Params.h */,
 				278D343F18B3BE3800EAE4E5 /* Params.m */,
+				27F7126318BC928700A4394C /* maracas-reverse.wav */,
+				27F7126418BC928700A4394C /* maracas.wav */,
 				27E78C8C18B8A7D500FD3984 /* selected.png */,
 				278D343C18B256A700EAE4E5 /* test.xib */,
 				271DE35918B792DB00226209 /* skin_icon.png */,
@@ -346,6 +346,15 @@
 		27500B3618B24E1000703749 /* Flagsimages */ = {
 			isa = PBXGroup;
 			children = (
+				27F7126818BC935800A4394C /* mainFlags */,
+				27F7126718BC933E00A4394C /* flagsList */,
+			);
+			name = Flagsimages;
+			sourceTree = "<group>";
+		};
+		27F7126718BC933E00A4394C /* flagsList */ = {
+			isa = PBXGroup;
+			children = (
 				27500B3718B2538E00703749 /* 1_bra.png */,
 				27500B3818B2538E00703749 /* 1_bra2.png */,
 				27500B3918B2538E00703749 /* 1_cmr.png */,
@@ -387,7 +396,15 @@
 				27500B5D18B2538E00703749 /* 8_kor.png */,
 				27500B5E18B2538E00703749 /* 8_rus.png */,
 			);
-			name = Flagsimages;
+			name = flagsList;
+			sourceTree = "<group>";
+		};
+		27F7126818BC935800A4394C /* mainFlags */ = {
+			isa = PBXGroup;
+			children = (
+				27F7126918BC936700A4394C /* 1_brazil.png */,
+			);
+			name = mainFlags;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -469,6 +486,7 @@
 				27500B6218B2538E00703749 /* 1_cro.png in Resources */,
 				27500B8018B2538E00703749 /* 7_por.png in Resources */,
 				27500AC218AB87E600703749 /* Images.xcassets in Resources */,
+				27F7126A18BC936700A4394C /* 1_brazil.png in Resources */,
 				27500AF718AB8D3400703749 /* SettingViewController.xib in Resources */,
 				27500B6118B2538E00703749 /* 1_cmr.png in Resources */,
 				27500B6A18B2538E00703749 /* 3_gre.png in Resources */,
@@ -493,15 +511,16 @@
 				27500B8418B2538E00703749 /* 8_bel.png in Resources */,
 				27500B8518B2538E00703749 /* 8_kor.png in Resources */,
 				27500B6318B2538E00703749 /* 1_mex.png in Resources */,
+				27F7126618BC928700A4394C /* maracas.wav in Resources */,
 				27500B7018B2538E00703749 /* 4_ita2.png in Resources */,
 				27500B7918B2538E00703749 /* 6_bih.png in Resources */,
-				27500B3518B2452C00703749 /* FlagsListViewController.xib in Resources */,
 				27500AE318AB897600703749 /* ViewController.xib in Resources */,
 				27500B6B18B2538E00703749 /* 3_jpn.png in Resources */,
 				27500B6E18B2538E00703749 /* 4_eng.png in Resources */,
 				27500B6F18B2538E00703749 /* 4_ita.png in Resources */,
 				27500B8218B2538E00703749 /* 7_usa2.png in Resources */,
 				27500B6718B2538E00703749 /* 2_ned.png in Resources */,
+				27F7126518BC928700A4394C /* maracas-reverse.wav in Resources */,
 				27500B7B18B2538E00703749 /* 6_nga.png in Resources */,
 				278D343D18B256A700EAE4E5 /* test.xib in Resources */,
 				27500AE518AB8B2D00703749 /* setting.png in Resources */,
@@ -540,7 +559,6 @@
 				27500AB618AB87E600703749 /* main.m in Sources */,
 				271DE35818B64BF200226209 /* UIView+iCaxirola.m in Sources */,
 				27500B2218ABA6E400703749 /* SettingViewController.m in Sources */,
-				27500B3418B2452C00703749 /* FlagsListViewController.m in Sources */,
 				278D344018B3BE3800EAE4E5 /* Params.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

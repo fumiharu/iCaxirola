@@ -14,6 +14,3 @@
 - (UIView*)AdMobBanner;
 @end
 
-@interface UIButton (iCaxirola)
-- (UIButton*)button;
-@end

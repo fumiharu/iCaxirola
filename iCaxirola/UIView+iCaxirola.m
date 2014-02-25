@@ -20,7 +20,3 @@
 }
 @end
 
-@implementation UIButton (iCaxirola)
-//- (UIButton*)button{
-//}
-@end

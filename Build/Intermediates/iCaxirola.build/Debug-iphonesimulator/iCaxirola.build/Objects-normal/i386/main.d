@@ -1,2 +1,2 @@
-dependencies: /Users/fumiharu/Downloads/iCaxirola_m/iCaxirola/main.m \
-  /Users/fumiharu/Downloads/iCaxirola_m/iCaxirola/AppDelegate.h
+dependencies: /Users/fumiharu/iCaxirola/iCaxirola/main.m \
+  /Users/fumiharu/iCaxirola/iCaxirola/AppDelegate.h

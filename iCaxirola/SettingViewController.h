@@ -7,13 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <QuartzCore/QuartzCore.h>
+#import "Params.h"
 #import "GADBannerView.h"
 #import "UIView+iCaxirola.h"
 
-@protocol SettingViewControllerDelegate <NSObject>
-@end
-
 @interface SettingViewController : UIViewController
-@property (nonatomic, strong) id<SettingViewControllerDelegate> delegate;
+@property (nonatomic, strong) NSUserDefaults *ud1;
 @end
 

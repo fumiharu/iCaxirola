@@ -1,2 +1,2 @@
-dependencies: /Users/fumiharu/Downloads/iCaxirola_m/iCaxirola/Params.m \
-  /Users/fumiharu/Downloads/iCaxirola_m/iCaxirola/Params.h
+dependencies: /Users/fumiharu/iCaxirola/iCaxirola/Params.m \
+  /Users/fumiharu/iCaxirola/iCaxirola/Params.h

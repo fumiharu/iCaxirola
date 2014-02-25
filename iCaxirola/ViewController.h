@@ -8,10 +8,8 @@
 
 #import <UIKit/UIKit.h>
 #import "SettingViewController.h"
-#import "FlagsListViewController.h"
 #import "Params.h"
 
 @interface ViewController : UIViewController
-<SettingViewControllerDelegate, FlagsListViewControllerDelegate>
 @property (nonatomic, strong) IBOutlet UIImageView *mainCaxirola;
 @end

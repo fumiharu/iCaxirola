@@ -32,7 +32,7 @@
                         <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                     </state>
                     <connections>
-                        <action selector="FlagsListModal:" destination="-1" eventType="touchUpInside" id="YRP-ZA-k50"/>
+                        <action selector="pressFlagsListView:" destination="-1" eventType="touchUpInside" id="AXy-up-IVd"/>
                     </connections>
                 </button>
             </subviews>

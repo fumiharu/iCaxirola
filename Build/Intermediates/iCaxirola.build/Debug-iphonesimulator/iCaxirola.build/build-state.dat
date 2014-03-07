@@ -404,7 +404,7 @@ t1393944034
 s113992
 
 N/Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/Objects-normal/i386/AppDelegate.o
-t1394206031
+t1394208375
 s68376
 
 N/Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/Objects-normal/i386/AwesomeMenu.o
@@ -478,11 +478,11 @@ t1394084649
 s525
 
 N/Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app
-t1394206032
+t1394208375
 s2482
 
 N/Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app.dSYM
-t1394106856
+t1394206032
 s102
 
 N/Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app/1_bra.png
@@ -718,7 +718,7 @@ t1393910637
 s42
 
 N/Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola
-t1394206032
+t1394208375
 s747356
 
 N/Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app/icon-plus-highlighted.png
@@ -973,9 +973,9 @@ t1393909676
 s287
 
 N/Users/fumiharu/Desktop/iCaxirola/iCaxirola/AppDelegate.m
-c000000005319E54F0000000000000ADD
-t1394206031
-s2781
+c000000005319E8DF0000000000000AE2
+t1394206943
+s2786
 
 N/Users/fumiharu/Desktop/iCaxirola/iCaxirola/AwesomeMenu/AwesomeMenu.h
 c00000000530CBFC30000000000000626
@@ -1166,6 +1166,16 @@ N/Users/fumiharu/Downloads/GoogleAnalyticsServicesiOS_3.03c/GoogleAnalytics/Libr
 c000000005302FC8600000000000018C8
 t1392704646
 s6344
+
+N/Users/fumiharu/Downloads/GoogleAnalyticsServicesiOS_3.03c/GoogleAnalytics/Library/GAIDictionaryBuilder.h
+c000000005302FC860000000000001B4E
+t1392704646
+s6990
+
+N/Users/fumiharu/Downloads/GoogleAnalyticsServicesiOS_3.03c/GoogleAnalytics/Library/GAIFields.h
+c000000005302FC860000000000000FCC
+t1392704646
+s4044
 
 N/Users/fumiharu/Downloads/GoogleAnalyticsServicesiOS_3.03c/GoogleAnalytics/Library/GAILogger.h
 c000000005302FC86000000000000045D
@@ -1360,7 +1370,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesbda772cf1ccab841^deac91cf1ccab841^---0#1#1#--18"Check dependencies36"8431409C-EB27-47C3-BC3B-1676E7B17D8F-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc79d9af725cab841^207da7f725cab841^---0#1#1#--18"Check dependencies36"4028AB58-242D-47BB-B9D6-A98A76907518-
 
 CCompileAssetCatalog /Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app /Users/fumiharu/Desktop/iCaxirola/iCaxirola/Images.xcassets
 s415777449.299752
@@ -1378,8 +1388,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile
 bE20916AE-8A15-4E37-8E83-D66A04E20A5E
 
 CCompileC Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/Objects-normal/i386/AppDelegate.o /Users/fumiharu/Desktop/iCaxirola/iCaxirola/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s415898831.571212
-e415898831.825249
+s415901175.659422
+e415901175.764779
 r1
 xCompileC
 xBuild/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/Objects-normal/i386/AppDelegate.o
@@ -1406,8 +1416,8 @@ d/Users/fumiharu/Downloads/GoogleAnalyticsServicesiOS_3.03c/GoogleAnalytics/Libr
 d/Users/fumiharu/Downloads/GoogleAnalyticsServicesiOS_3.03c/GoogleAnalytics/Library/GAITrackedViewController.h
 d/Users/fumiharu/Downloads/GoogleAnalyticsServicesiOS_3.03c/GoogleAnalytics/Library/GAIFields.h
 d/Users/fumiharu/Downloads/GoogleAnalyticsServicesiOS_3.03c/GoogleAnalytics/Library/GAIDictionaryBuilder.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/fumiharu/Desktop/iCaxirola/iCaxirola/AppDelegate.m208"CompileC Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/Objects-normal/i386/AppDelegate.o iCaxirola/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler895e92cf1ccab841^1745d3cf1ccab841^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/fumiharu/Desktop/iCaxirola/iCaxirola/AppDelegate.m0000000000000000^3638"CompileC Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/Objects-normal/i386/AppDelegate.o iCaxirola/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/iCaxirola    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode_5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/iCaxirola-generated-files.hmap -I/Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/iCaxirola-own-target-headers.hmap -I/Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/iCaxirola-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/iCaxirola-project-headers.hmap -I/Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode_5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/DerivedSources -F/Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator -include /Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-eaydrwnflhhzzefbgabnhskzsiph/iCaxirola-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/Objects-normal/i386/AppDelegate.dia -c /Users/fumiharu/Desktop/iCaxirola/iCaxirola/AppDelegate.m -o /Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/Objects-normal/i386/AppDelegate.o36"4FC74B29-E1E6-4FAF-938E-A557367032CA-
-bE072C5F2-454C-4368-A87A-03C0FCDBF98A
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/fumiharu/Desktop/iCaxirola/iCaxirola/AppDelegate.m208"CompileC Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/Objects-normal/i386/AppDelegate.o iCaxirola/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7ff5a8f725cab841^32cac3f725cab841^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/fumiharu/Desktop/iCaxirola/iCaxirola/AppDelegate.m0000000000000000^3638"CompileC Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/Objects-normal/i386/AppDelegate.o iCaxirola/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/iCaxirola    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode_5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/iCaxirola-generated-files.hmap -I/Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/iCaxirola-own-target-headers.hmap -I/Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/iCaxirola-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/iCaxirola-project-headers.hmap -I/Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode_5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/DerivedSources/i386 -I/Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/DerivedSources -F/Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator -include /Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-eaydrwnflhhzzefbgabnhskzsiph/iCaxirola-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/Objects-normal/i386/AppDelegate.dia -c /Users/fumiharu/Desktop/iCaxirola/iCaxirola/AppDelegate.m -o /Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/Objects-normal/i386/AppDelegate.o36"FCC3C843-FE5B-48AC-8C55-56AE04E6ABE3-
+b446774AA-5652-4A33-BE7E-5B27FABBEE6A
 
 CCompileC Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/Objects-normal/i386/AwesomeMenu.o /Users/fumiharu/Desktop/iCaxirola/iCaxirola/AwesomeMenu/AwesomeMenu.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s415638198.771139
@@ -2341,18 +2351,18 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy Bu
 bB4E2AA8C-196F-490B-88F9-72DA23112DC0
 
 CGenerateDSYMFile /Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app.dSYM /Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola
-s415898832.110026
-e415898832.139807
+s415901175.869149
+e415901175.894766
 r1
 xGenerateDSYMFile
 x/Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app.dSYM
 x/Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Generate /Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app.dSYM133"GenerateDSYMFile Build/Products/Debug-iphonesimulator/iCaxirola.app.dSYM Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola72371cd01ccab841^4fcb23d01ccab841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app.dSYM/0000000000000000^664"GenerateDSYMFile Build/Products/Debug-iphonesimulator/iCaxirola.app.dSYM Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola    cd /Users/fumiharu/Desktop/iCaxirola    setenv PATH "/Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode_5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola -o /Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app.dSYM36"17C47731-4F64-47B7-A217-C4CF35B3AB1B-
-bE072C5F2-454C-4368-A87A-03C0FCDBF98A
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Generate /Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app.dSYM133"GenerateDSYMFile Build/Products/Debug-iphonesimulator/iCaxirola.app.dSYM Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola7d93def725cab841^f90fe5f725cab841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app.dSYM/0000000000000000^664"GenerateDSYMFile Build/Products/Debug-iphonesimulator/iCaxirola.app.dSYM Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola    cd /Users/fumiharu/Desktop/iCaxirola    setenv PATH "/Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode_5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola -o /Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app.dSYM36"749B648E-880C-4490-B663-799F7739503C-
+b446774AA-5652-4A33-BE7E-5B27FABBEE6A
 
 CLd /Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola normal i386
-s415898831.829312
-e415898832.108967
+s415901175.767586
+e415901175.868157
 r1
 xLd
 x/Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola
@@ -2398,8 +2408,8 @@ d/Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform
 d/Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
 d/Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
 d/Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
-d/Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
 d/Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
 d/Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
 d/Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
 d/Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
@@ -2421,12 +2431,12 @@ d/Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform
 d/Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
 d/Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
 d/usr/lib/libSystem.B.dylib
-d/Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
 d/usr/lib/system/libcache.dylib
 d/usr/lib/system/libcommonCrypto.dylib
 d/usr/lib/system/libcompiler_rt.dylib
 d/usr/lib/system/libcopyfile.dylib
 d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
 d/usr/lib/system/libkeymgr.dylib
 d/usr/lib/system/liblaunch.dylib
 d/usr/lib/system/libmacho.dylib
@@ -2447,8 +2457,9 @@ d/usr/lib/system/libsystem_pthread.dylib
 d/usr/lib/system/libsystem_sandbox.dylib
 d/usr/lib/system/libunc.dylib
 d/usr/lib/system/libunwind.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Link /Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola75"Ld Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola normal i386b262d4cf1ccab841^fbe51bd01ccab841^---0#0#1#--1792"Ld Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola normal i386    cd /Users/fumiharu/Desktop/iCaxirola    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode_5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator -L/Users/fumiharu/iCaxirola/iCaxirola -L/Users/fumiharu/Desktop/iCaxirola/Admob -L/Users/fumiharu/Downloads/GoogleAnalyticsServicesiOS_3.03c -F/Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator -filelist /Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/Objects-normal/i386/iCaxirola.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -lz -framework CoreData -lGoogleAdMobAds -framework AudioToolbox -framework AVFoundation -framework MessageUI -framework CoreTelephony -framework AdSupport -lGoogleAnalyticsServices -lAdIdAccess -framework StoreKit -framework SystemConfiguration -framework Social -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/Objects-normal/i386/iCaxirola_dependency_info.dat -o /Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola36"34D96C30-6203-446D-92AC-7B47D53D8396-
-bE072C5F2-454C-4368-A87A-03C0FCDBF98A
+d/Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Link /Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola75"Ld Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola normal i386cd92c4f725cab841^1040def725cab841^---0#0#1#--1792"Ld Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola normal i386    cd /Users/fumiharu/Desktop/iCaxirola    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode_5.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode_5.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode_5.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator -L/Users/fumiharu/iCaxirola/iCaxirola -L/Users/fumiharu/Desktop/iCaxirola/Admob -L/Users/fumiharu/Downloads/GoogleAnalyticsServicesiOS_3.03c -F/Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator -filelist /Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/Objects-normal/i386/iCaxirola.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -lz -framework CoreData -lGoogleAdMobAds -framework AudioToolbox -framework AVFoundation -framework MessageUI -framework CoreTelephony -framework AdSupport -lGoogleAnalyticsServices -lAdIdAccess -framework StoreKit -framework SystemConfiguration -framework Social -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/fumiharu/Desktop/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirola.build/Objects-normal/i386/iCaxirola_dependency_info.dat -o /Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola36"1A20B4F3-5C2B-47B7-9A34-5734ADF9D5CD-
+b446774AA-5652-4A33-BE7E-5B27FABBEE6A
 
 CLd /Users/fumiharu/Desktop/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola normal x86_64
 s415685677.246411

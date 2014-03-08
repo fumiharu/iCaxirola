@@ -16,6 +16,10 @@
 		<data>
 		kkJbRqe1IREPMZtbiMtExDa9Dag=
 		</data>
+		<key>1_cameroon.png</key>
+		<data>
+		bQC25pZ54WxvDi7l2MEJ5tlWtqk=
+		</data>
 		<key>1_cmr.png</key>
 		<data>
 		n+OdF4UNnp31b9GeITK/78nYQHk=
@@ -168,29 +172,13 @@
 		<data>
 		XcKAcZCWvvrXl9AuvPSb5MvHLh0=
 		</data>
-		<key>Base.lproj/Main.storyboardc/UIViewController-vXZ-lx-hvc.nib/objects.nib</key>
+		<key>Application.nib/objects.nib</key>
 		<data>
-		civaTk/JOkvwNfN/HE4MASRAZnw=
+		8T54wuD9oEoPpmvBJtTaHnZGsOU=
 		</data>
-		<key>Base.lproj/Main.storyboardc/UIViewController-vXZ-lx-hvc.nib/runtime.nib</key>
+		<key>Application.nib/runtime.nib</key>
 		<data>
-		vSvZgCimcuq6fAIKtWQZEXT3gDM=
-		</data>
-		<key>Base.lproj/Main.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib/objects.nib</key>
-		<data>
-		y2WNJR76jIWVMfkQwU+rbLRiLyI=
-		</data>
-		<key>Base.lproj/Main.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib/runtime.nib</key>
-		<data>
-		l4jT0XD2bREV+UQP/hfL1mnJ/SI=
-		</data>
-		<key>FlagsListViewController.nib/objects.nib</key>
-		<data>
-		huyqR/jwN62MH35s3mzyjCl6+6g=
-		</data>
-		<key>FlagsListViewController.nib/runtime.nib</key>
-		<data>
-		G6TjDWZtegdruKplwGcw5ZQdVMc=
+		Ay+BtOb09TFe2FtDCCH1cLTQWEo=
 		</data>
 		<key>LaunchImage-568h@2x.png</key>
 		<data>
@@ -210,23 +198,59 @@
 		</data>
 		<key>SettingViewController.nib/objects.nib</key>
 		<data>
-		ZcDTB2pf6TslowoqwcQGIFRnaSQ=
+		iI8DB2PWQi2gIgRCnLutJwodFDg=
 		</data>
 		<key>SettingViewController.nib/runtime.nib</key>
 		<data>
-		sydGfoYeU8w7MYT8vQtN/Y4BYxQ=
+		wPn8yjXZaF7MtTRswrChstuiFRA=
 		</data>
 		<key>ViewController.nib/objects.nib</key>
 		<data>
-		ovJ6+LO+5M55reQHObgnXpPuVRk=
+		sSKgt7HDH6qpzdZYYgz1Wh0YV68=
 		</data>
 		<key>ViewController.nib/runtime.nib</key>
 		<data>
-		yi+OdN/OBq2MPT8t7qsHcwB2Jkc=
+		K1kszWYeQkkc+hNm2xI5K299AMc=
 		</data>
-		<key>china.png</key>
+		<key>WebView.nib/objects.nib</key>
 		<data>
-		KZM5rpRcRc8g+k+ZfkyWx2LlkQc=
+		nluJwZkJYcueALLm7y0kfT4FOCw=
+		</data>
+		<key>WebView.nib/runtime.nib</key>
+		<data>
+		xq4oNaNThYXYRPVsubjPh1vcKbc=
+		</data>
+		<key>bg-addbutton-highlighted.png</key>
+		<data>
+		UBzEsxhA676zbOxkTQKcLNOShGY=
+		</data>
+		<key>bg-addbutton-highlighted@2x.png</key>
+		<data>
+		ZZtCD/XIKQ0/i5Mz6FUAG4Gi4+g=
+		</data>
+		<key>bg-addbutton.png</key>
+		<data>
+		xlQ4aaqX3eZHr02JlgawXh8247Y=
+		</data>
+		<key>bg-addbutton@2x.png</key>
+		<data>
+		TFII8yprCDaSHnMuAZN1zs3gqYc=
+		</data>
+		<key>bg-menuitem-highlighted.png</key>
+		<data>
+		+3B0MggWFJaxlzC5E1UDFh0qmZ8=
+		</data>
+		<key>bg-menuitem-highlighted@2x.png</key>
+		<data>
+		sGVBe2H6GKTovSMwSewwR3/W9Aw=
+		</data>
+		<key>bg-menuitem.png</key>
+		<data>
+		s+PI5FRvnozqIqqZUtr/hwOU3LQ=
+		</data>
+		<key>bg-menuitem@2x.png</key>
+		<data>
+		Mo3KAoPJj7+oFeEr/il8O/68qo4=
 		</data>
 		<key>close.png</key>
 		<data>
@@ -234,25 +258,49 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		cjEfxiNM/FwbDHHhhr+OyOzgRN0=
+		jPuxwDUA9GWqtizcAXJ6yCklXJo=
 		</data>
 		<key>en.lproj/InfoPlist.strings</key>
 		<data>
 		zmV6UqBSo6r1NOz798vd5O4zTBA=
 		</data>
-		<key>india.png</key>
+		<key>icon-plus-highlighted.png</key>
 		<data>
-		QEJfgX0MbBA4bYDN8Rzi62J72Tc=
+		riuoupXgMcaelFyJvXQrtnzKx2k=
 		</data>
-		<key>japan.jpg</key>
+		<key>icon-plus-highlighted@2x.png</key>
 		<data>
-		vwhLXvNnLnp+syKEbXo1g0Qh6x4=
+		9H+T/j9iZjfJN/1Mfbbv1LqdIQM=
+		</data>
+		<key>icon-plus.png</key>
+		<data>
+		Cgq81+6J9C5uhgiYuFGtvgMfANE=
+		</data>
+		<key>icon-plus@2x.png</key>
+		<data>
+		rQYoZVImRp4xfrHFvwD/nbrKC9I=
+		</data>
+		<key>icon-star.png</key>
+		<data>
+		aAhD3nY6PYsI24Qh+vGMb2J8Gjk=
+		</data>
+		<key>icon-star@2x.png</key>
+		<data>
+		bViR6np6z7yT7E7ynztYAeflUR0=
 		</data>
 		<key>maracas-reverse.wav</key>
 		<data>
 		d7QH3EC4OBNrAoIkaClH59x5sXI=
 		</data>
 		<key>maracas.wav</key>
+		<data>
+		6JQ7g0Fhq8HUvJVRRRhga/QGh4Q=
+		</data>
+		<key>maracas0.wav</key>
+		<data>
+		d7QH3EC4OBNrAoIkaClH59x5sXI=
+		</data>
+		<key>maracas1.wav</key>
 		<data>
 		6JQ7g0Fhq8HUvJVRRRhga/QGh4Q=
 		</data>
@@ -270,11 +318,11 @@
 		</data>
 		<key>test.nib/objects.nib</key>
 		<data>
-		+CGfTWzawoBQMbOYq2arBHzUahc=
+		NlD8vcPsf1WXR0DM77+1oNDaFOo=
 		</data>
 		<key>test.nib/runtime.nib</key>
 		<data>
-		GjerdjKhh/tIStag+Y2GOLwmchQ=
+		kWzWYSZjog6elVjLyzHcnOlaRe0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -291,6 +339,10 @@
 		<data>
 		kkJbRqe1IREPMZtbiMtExDa9Dag=
 		</data>
+		<key>1_cameroon.png</key>
+		<data>
+		bQC25pZ54WxvDi7l2MEJ5tlWtqk=
+		</data>
 		<key>1_cmr.png</key>
 		<data>
 		n+OdF4UNnp31b9GeITK/78nYQHk=
@@ -443,29 +495,13 @@
 		<data>
 		XcKAcZCWvvrXl9AuvPSb5MvHLh0=
 		</data>
-		<key>Base.lproj/Main.storyboardc/UIViewController-vXZ-lx-hvc.nib/objects.nib</key>
+		<key>Application.nib/objects.nib</key>
 		<data>
-		civaTk/JOkvwNfN/HE4MASRAZnw=
+		8T54wuD9oEoPpmvBJtTaHnZGsOU=
 		</data>
-		<key>Base.lproj/Main.storyboardc/UIViewController-vXZ-lx-hvc.nib/runtime.nib</key>
+		<key>Application.nib/runtime.nib</key>
 		<data>
-		vSvZgCimcuq6fAIKtWQZEXT3gDM=
-		</data>
-		<key>Base.lproj/Main.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib/objects.nib</key>
-		<data>
-		y2WNJR76jIWVMfkQwU+rbLRiLyI=
-		</data>
-		<key>Base.lproj/Main.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib/runtime.nib</key>
-		<data>
-		l4jT0XD2bREV+UQP/hfL1mnJ/SI=
-		</data>
-		<key>FlagsListViewController.nib/objects.nib</key>
-		<data>
-		huyqR/jwN62MH35s3mzyjCl6+6g=
-		</data>
-		<key>FlagsListViewController.nib/runtime.nib</key>
-		<data>
-		G6TjDWZtegdruKplwGcw5ZQdVMc=
+		Ay+BtOb09TFe2FtDCCH1cLTQWEo=
 		</data>
 		<key>LaunchImage-568h@2x.png</key>
 		<data>
@@ -485,23 +521,59 @@
 		</data>
 		<key>SettingViewController.nib/objects.nib</key>
 		<data>
-		ZcDTB2pf6TslowoqwcQGIFRnaSQ=
+		iI8DB2PWQi2gIgRCnLutJwodFDg=
 		</data>
 		<key>SettingViewController.nib/runtime.nib</key>
 		<data>
-		sydGfoYeU8w7MYT8vQtN/Y4BYxQ=
+		wPn8yjXZaF7MtTRswrChstuiFRA=
 		</data>
 		<key>ViewController.nib/objects.nib</key>
 		<data>
-		ovJ6+LO+5M55reQHObgnXpPuVRk=
+		sSKgt7HDH6qpzdZYYgz1Wh0YV68=
 		</data>
 		<key>ViewController.nib/runtime.nib</key>
 		<data>
-		yi+OdN/OBq2MPT8t7qsHcwB2Jkc=
+		K1kszWYeQkkc+hNm2xI5K299AMc=
 		</data>
-		<key>china.png</key>
+		<key>WebView.nib/objects.nib</key>
 		<data>
-		KZM5rpRcRc8g+k+ZfkyWx2LlkQc=
+		nluJwZkJYcueALLm7y0kfT4FOCw=
+		</data>
+		<key>WebView.nib/runtime.nib</key>
+		<data>
+		xq4oNaNThYXYRPVsubjPh1vcKbc=
+		</data>
+		<key>bg-addbutton-highlighted.png</key>
+		<data>
+		UBzEsxhA676zbOxkTQKcLNOShGY=
+		</data>
+		<key>bg-addbutton-highlighted@2x.png</key>
+		<data>
+		ZZtCD/XIKQ0/i5Mz6FUAG4Gi4+g=
+		</data>
+		<key>bg-addbutton.png</key>
+		<data>
+		xlQ4aaqX3eZHr02JlgawXh8247Y=
+		</data>
+		<key>bg-addbutton@2x.png</key>
+		<data>
+		TFII8yprCDaSHnMuAZN1zs3gqYc=
+		</data>
+		<key>bg-menuitem-highlighted.png</key>
+		<data>
+		+3B0MggWFJaxlzC5E1UDFh0qmZ8=
+		</data>
+		<key>bg-menuitem-highlighted@2x.png</key>
+		<data>
+		sGVBe2H6GKTovSMwSewwR3/W9Aw=
+		</data>
+		<key>bg-menuitem.png</key>
+		<data>
+		s+PI5FRvnozqIqqZUtr/hwOU3LQ=
+		</data>
+		<key>bg-menuitem@2x.png</key>
+		<data>
+		Mo3KAoPJj7+oFeEr/il8O/68qo4=
 		</data>
 		<key>close.png</key>
 		<data>
@@ -509,25 +581,49 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		cjEfxiNM/FwbDHHhhr+OyOzgRN0=
+		jPuxwDUA9GWqtizcAXJ6yCklXJo=
 		</data>
 		<key>en.lproj/InfoPlist.strings</key>
 		<data>
 		zmV6UqBSo6r1NOz798vd5O4zTBA=
 		</data>
-		<key>india.png</key>
+		<key>icon-plus-highlighted.png</key>
 		<data>
-		QEJfgX0MbBA4bYDN8Rzi62J72Tc=
+		riuoupXgMcaelFyJvXQrtnzKx2k=
 		</data>
-		<key>japan.jpg</key>
+		<key>icon-plus-highlighted@2x.png</key>
 		<data>
-		vwhLXvNnLnp+syKEbXo1g0Qh6x4=
+		9H+T/j9iZjfJN/1Mfbbv1LqdIQM=
+		</data>
+		<key>icon-plus.png</key>
+		<data>
+		Cgq81+6J9C5uhgiYuFGtvgMfANE=
+		</data>
+		<key>icon-plus@2x.png</key>
+		<data>
+		rQYoZVImRp4xfrHFvwD/nbrKC9I=
+		</data>
+		<key>icon-star.png</key>
+		<data>
+		aAhD3nY6PYsI24Qh+vGMb2J8Gjk=
+		</data>
+		<key>icon-star@2x.png</key>
+		<data>
+		bViR6np6z7yT7E7ynztYAeflUR0=
 		</data>
 		<key>maracas-reverse.wav</key>
 		<data>
 		d7QH3EC4OBNrAoIkaClH59x5sXI=
 		</data>
 		<key>maracas.wav</key>
+		<data>
+		6JQ7g0Fhq8HUvJVRRRhga/QGh4Q=
+		</data>
+		<key>maracas0.wav</key>
+		<data>
+		d7QH3EC4OBNrAoIkaClH59x5sXI=
+		</data>
+		<key>maracas1.wav</key>
 		<data>
 		6JQ7g0Fhq8HUvJVRRRhga/QGh4Q=
 		</data>
@@ -545,11 +641,11 @@
 		</data>
 		<key>test.nib/objects.nib</key>
 		<data>
-		+CGfTWzawoBQMbOYq2arBHzUahc=
+		NlD8vcPsf1WXR0DM77+1oNDaFOo=
 		</data>
 		<key>test.nib/runtime.nib</key>
 		<data>
-		GjerdjKhh/tIStag+Y2GOLwmchQ=
+		kWzWYSZjog6elVjLyzHcnOlaRe0=
 		</data>
 	</dict>
 	<key>rules</key>

@@ -7,9 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "SettingViewController.h"
+#import <Social/Social.h>
+#import <QuartzCore/QuartzCore.h>
 #import "Params.h"
+#import "AwesomeMenu.h"
+#import "GADBannerView.h"
+#import "UIView+iCaxirola.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <AwesomeMenuDelegate>
 @property (nonatomic, strong) IBOutlet UIImageView *mainCaxirola;
+@property (nonatomic, strong) NSUserDefaults *ud1;
 @end

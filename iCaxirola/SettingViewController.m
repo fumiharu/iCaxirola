@@ -38,10 +38,10 @@
 }
 
 - (IBAction)pressFlagsListView:(id)sender {
-    SettingSubView = [[UIView alloc]initWithFrame:CGRectMake(45, 40, 480, 270)];
+    SettingSubView = [[UIView alloc]initWithFrame:CGRectMake(0, 0, self.view.bounds.size.width, self.view.bounds.size.height)];  //CGRectMake(45, 40, 480, 270)
     SettingSubView.alpha = 0;
     SettingSubView.backgroundColor = [UIColor blackColor];
-    SettingSubView.layer.cornerRadius = 10;
+//    SettingSubView.layer.cornerRadius = 10;
     SettingSubView.clipsToBounds = true;
     [UIView beginAnimations:@"fadeIn" context:nil];
     [UIView setAnimationCurve:UIViewAnimationCurveEaseInOut];
@@ -54,7 +54,7 @@
     [scroll setBackgroundColor:[UIColor blackColor]];
     scroll.contentSize = CGSizeMake(0, 1150);
     [SettingSubView addSubview:scroll];
-    //    [self.view AdMobBanner];
+    [self.view AdMobBanner];
     
     //    Place a button
     ud = [NSUserDefaults standardUserDefaults];
@@ -75,17 +75,18 @@
     
     
     //    ボタンの配置
-    int y = 50;
-    int z = 135;
+    int y = 80;
+    int z = 165;
     int x = 0;
+    int columns = 5;
     
     for (int i = 0; i < [arrayImage count]; i++){
-        if (i % 4 == 0 && i > 0) {
+        if (i % columns == 0 && i > 0) {
             x = 0;
-            y = y + 140;
-            z = z + 140;
+            y = y + 130;
+            z = z + 130;
         }
-        flagSelectBtn = [[UIButton alloc]initWithFrame:CGRectMake(((scroll.bounds.size.width/4)*x), y, 85, 85)];
+        flagSelectBtn = [[UIButton alloc]initWithFrame:CGRectMake(((scroll.bounds.size.width/columns)*x), y, 85, 85)];
         [flagSelectBtn setBackgroundImage:[UIImage imageNamed:[arrayImage objectAtIndex:i]] forState:UIControlStateNormal];
         [flagSelectBtn addTarget:self action:@selector(pressFlagSelected:) forControlEvents:UIControlEventTouchUpInside];
         flagSelectBtn.tag = i;
@@ -93,7 +94,7 @@
         
         [scroll addSubview:InitialValue];
         
-        UILabel *Name = [[UILabel alloc]initWithFrame:CGRectMake(((scroll.bounds.size.width/4)*x), z, 85, 25)];
+        UILabel *Name = [[UILabel alloc]initWithFrame:CGRectMake(((scroll.bounds.size.width/columns)*x), z, 85, 25)];
         [Name setText:[arrayName objectAtIndex:i]];
         [Name setBackgroundColor:[UIColor blackColor]];
         [Name setTextColor:[UIColor whiteColor]];
@@ -105,7 +106,7 @@
         x = x + 1;
     }
     
-    UILabel *title = [[UILabel alloc]initWithFrame:CGRectMake(50, 0, 400, 40)];
+    UILabel *title = [[UILabel alloc]initWithFrame:CGRectMake(70, 40, 400, 40)];
     [title setText:@"Change The Design for iCaxirola."];
     [title setBackgroundColor:[UIColor blackColor]];
     [title setTextColor:[UIColor whiteColor]];

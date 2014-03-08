@@ -12,5 +12,8 @@
 
 @interface UIView (iCaxirola)
 - (UIView*)AdMobBanner;
+- (void)aniani:(UIView*)vieww;
+- (UIView*)aniania;
+//- (void)addSubview:(UIView *)view ob:(UIView*)vieww;
 @end
 

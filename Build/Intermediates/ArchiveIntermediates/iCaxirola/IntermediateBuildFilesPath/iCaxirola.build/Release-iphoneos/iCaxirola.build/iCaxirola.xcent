@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>V2P4ADA4S6.-.iCaxirola</string>
+	<string>V2P4ADA4S6.iCaxirola</string>
 	<key>get-task-allow</key>
-	<true/>
+	<false/>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>V2P4ADA4S6.-.iCaxirola</string>
+		<string>V2P4ADA4S6.iCaxirola</string>
 	</array>
 </dict>
 </plist>

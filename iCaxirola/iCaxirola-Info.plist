@@ -8,6 +8,7 @@
 	<string>${PRODUCT_NAME}</string>
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
+<<<<<<< HEAD
 	<key>CFBundleIconFiles</key>
 	<array>
 		<string>Icon-Small</string>
@@ -16,6 +17,10 @@
 	</array>
 	<key>CFBundleIdentifier</key>
 	<string>${PRODUCT_NAME:rfc1034identifier}</string>
+=======
+	<key>CFBundleIdentifier</key>
+	<string>-.${PRODUCT_NAME:rfc1034identifier}</string>
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>

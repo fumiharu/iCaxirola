@@ -8,14 +8,18 @@
 
 #import "AppDelegate.h"
 #import "ViewController.h"
+<<<<<<< HEAD
 #import "GAI.h"
 #import "GAIFields.h"
 #import "GAIDictionaryBuilder.h"
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+<<<<<<< HEAD
 
     
     self.window.rootViewController = [[ViewController alloc] initWithNibName:@"ViewController" bundle:nil];
@@ -35,6 +39,13 @@
 /* ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇ */
 
 
+=======
+    self.window.rootViewController = [[ViewController alloc]initWithNibName:@"ViewController" bundle:nil];
+
+    return YES;
+}
+							
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 - (void)applicationWillResignActive:(UIApplication *)application
 {
     // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.
@@ -43,7 +54,11 @@
 
 - (void)applicationDidEnterBackground:(UIApplication *)application
 {
+<<<<<<< HEAD
     // Use this method to release shared resources, save user data, invalidate timers, and store enough application state information to restore your application to its current state in case it is terminated later.
+=======
+    // Use this method to release shared resources, save user data, invalidate timers, and store enough application state information to restore your application to its current state in case it is terminated later. 
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
     // If your application supports background execution, this method is called instead of applicationWillTerminate: when the user quits.
 }
 

@@ -5,20 +5,30 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
 	<string>1A7CAF88-75E3-498D-BF88-56CB427B9E5D</string>
+=======
+	<string>275FF289-F924-49D8-A423-F113DAF0937B</string>
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 	<key>IDESourceControlProjectName</key>
 	<string>iCaxirola</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+<<<<<<< HEAD
 		<key>125D178F-DC1A-4D56-AC5D-6E60EBDD5031</key>
 		<string>ssh://github.com/fumiharu/iCaxirola.git</string>
 		<key>7CC03A06-AB5B-4C18-94C9-293F06283AAA</key>
 		<string>https://github.com/fumiharu/iCaxirola</string>
+=======
+		<key>C37FDA91-3F70-4BA2-8CFA-5CD7CCA3D2E6</key>
+		<string>ssh://github.com/fumiharu/iCaxirola.git</string>
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>iCaxirola.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+<<<<<<< HEAD
 		<key>125D178F-DC1A-4D56-AC5D-6E60EBDD5031</key>
 		<string>../../../../iCaxirola</string>
 		<key>7CC03A06-AB5B-4C18-94C9-293F06283AAA</key>
@@ -30,12 +40,24 @@
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
 	<string>7CC03A06-AB5B-4C18-94C9-293F06283AAA</string>
+=======
+		<key>C37FDA91-3F70-4BA2-8CFA-5CD7CCA3D2E6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/fumiharu/iCaxirola.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C37FDA91-3F70-4BA2-8CFA-5CD7CCA3D2E6</string>
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
+<<<<<<< HEAD
 			<string>7CC03A06-AB5B-4C18-94C9-293F06283AAA</string>
 			<key>IDESourceControlWCCName</key>
 			<string>iCaxirola</string>
@@ -45,6 +67,9 @@
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>125D178F-DC1A-4D56-AC5D-6E60EBDD5031</string>
+=======
+			<string>C37FDA91-3F70-4BA2-8CFA-5CD7CCA3D2E6</string>
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 			<key>IDESourceControlWCCName</key>
 			<string>iCaxirola</string>
 		</dict>

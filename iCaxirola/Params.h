@@ -9,11 +9,14 @@
 #import <Foundation/Foundation.h>
 
 #define kAdUnitID   @"ca-app-pub-4093245526421990/1515342265"
+<<<<<<< HEAD
 
 //matches http://touch.fifa.com/worldcup/matches/index.html
 //groups http://touch.fifa.com/worldcup/standings/index.html
 //teams http://touch.fifa.com/worldcup/teams/index.html
 
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 //countryFlag Images
 #define kBRA    @"1_bra.png"
 #define kCRO    @"1_cro.png"
@@ -48,6 +51,7 @@
 #define kRUS	@"8_rus.png"
 #define kKOR	@"8_kor.png"
 
+<<<<<<< HEAD
 #define k_BRA   @"1_brazil.png"
 #define k_CRO   @"1_croatia.png"
 #define k_MEX   @"1_mexico.png"
@@ -161,6 +165,48 @@
 //#define kE_ALG  @"Algeria"
 //#define kE_RUS  @"Russia"
 //#define kE_KOR  @"Korea"
+=======
+//country enName
+#define kE_BRA  @"Brazil"
+#define kE_CRO  @"Croatia"
+#define kE_MEX  @"Mexico"
+#define kE_CMR  @"Cameroon"
+
+#define kE_ESP  @"Spain"
+#define kE_NED  @"Netherlands"
+#define kE_CHI  @"Chile"
+#define kE_AUS  @"Australia"
+
+#define kE_COL  @"Colombia"
+#define kE_GRE  @"Greece"
+#define kE_CIV  @"Côte d'Ivoire"
+#define kE_JPN  @"Japan"
+
+#define kE_URU  @"Uruguay"
+#define kE_CRC  @"Costa Rica"
+#define kE_ENG  @"England"
+#define kE_ITA  @"Italy"
+
+#define kE_SUI  @"Switzerland"
+#define kE_ECU  @"Ecuador"
+#define kE_FRA  @"France"
+#define kE_HON  @"Honduras"
+
+#define kE_ARG  @"Argentina"
+#define kE_BIH  @"Bosnia-H"
+#define kE_IRN  @"Iran"
+#define kE_NGA  @"Nigeria"
+
+#define kE_GER  @"Germany"
+#define kE_POR  @"Portugal"
+#define kE_GHA  @"Ghana"
+#define kE_USA  @"USA"
+
+#define kE_BEL  @"Belgium"
+#define kE_ALG  @"Algeria"
+#define kE_RUS  @"Russia"
+#define kE_KOR  @"Korea"
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 
 
 @interface Params : NSObject

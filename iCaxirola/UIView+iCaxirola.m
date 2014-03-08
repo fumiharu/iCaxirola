@@ -7,18 +7,26 @@
 //
 
 #import "UIView+iCaxirola.h"
+<<<<<<< HEAD
 #import "ViewController.h"
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 
 @implementation UIView (iCaxirola)
 - (UIView*)AdMobBanner{
     GADBannerView *bannerView = [[GADBannerView alloc]init];
     bannerView = [[GADBannerView alloc]initWithAdSize:kGADAdSizeSmartBannerLandscape];
     bannerView.adUnitID = kAdUnitID;
+<<<<<<< HEAD
     bannerView.rootViewController = (UIViewController*)self;
+=======
+    bannerView.rootViewController = self;
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
     [self addSubview:bannerView];
     [bannerView loadRequest:[GADRequest request]];
     return bannerView;
 }
+<<<<<<< HEAD
 - (void)aniani:(UIView*)vieww{
 
     ViewController *vc = [[ViewController alloc]init];
@@ -51,5 +59,7 @@
 -(void)addSubview:(UIView *)view POINT:(CGPoint)point{
 }
 
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 @end
 

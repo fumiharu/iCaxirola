@@ -2,6 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+	<key>UILaunchImageFile</key>
+	<string>LaunchImage</string>
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 	<key>UILaunchImages</key>
 	<array>
 		<dict>

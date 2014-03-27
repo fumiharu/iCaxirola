@@ -9,11 +9,20 @@
 #import <Foundation/Foundation.h>
 
 #define kAdUnitID   @"ca-app-pub-4093245526421990/1515342265"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 
 //matches http://touch.fifa.com/worldcup/matches/index.html
 //groups http://touch.fifa.com/worldcup/standings/index.html
 //teams http://touch.fifa.com/worldcup/teams/index.html
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 //countryFlag Images
 #define kBRA    @"1_bra.png"
 #define kCRO    @"1_cro.png"
@@ -48,6 +57,10 @@
 #define kRUS	@"8_rus.png"
 #define kKOR	@"8_kor.png"
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 #define k_BRA   @"1_brazil.png"
 #define k_CRO   @"1_croatia.png"
 #define k_MEX   @"1_mexico.png"
@@ -81,6 +94,7 @@
 #define k_RUS	@"8_rus.png"
 #define k_KOR	@"8_kor.png"
 
+<<<<<<< HEAD
 //country enName
 #define kE_BRA  @"bra"
 #define kE_CRO  @"cro"
@@ -161,6 +175,130 @@
 //#define kE_ALG  @"Algeria"
 //#define kE_RUS  @"Russia"
 //#define kE_KOR  @"Korea"
+=======
+//country enName
+#define kE_BRA  @"bra"
+#define kE_CRO  @"cro"
+#define kE_MEX  @"mex"
+#define kE_CMR  @"cmr"
+
+#define kE_ESP  @"esp"
+#define kE_NED  @"ned"
+#define kE_CHI  @"chi"
+#define kE_AUS  @"aus"
+
+#define kE_COL  @"col"
+#define kE_GRE  @"gre"
+#define kE_CIV  @"civ"
+#define kE_JPN  @"jpn"
+
+#define kE_URU  @"uru"
+#define kE_CRC  @"crc"
+#define kE_ENG  @"eng"
+#define kE_ITA  @"ita"
+
+#define kE_SUI  @"sui"
+#define kE_ECU  @"ecu"
+#define kE_FRA  @"fra"
+#define kE_HON  @"hon"
+
+#define kE_ARG  @"arg"
+#define kE_BIH  @"bih"
+#define kE_IRN  @"irn"
+#define kE_NGA  @"nga"
+
+#define kE_GER  @"ger"
+#define kE_POR  @"por"
+#define kE_GHA  @"gha"
+#define kE_USA  @"usa"
+
+#define kE_BEL  @"bel"
+#define kE_ALG  @"alg"
+#define kE_RUS  @"rus"
+#define kE_KOR  @"kor"
+
+//#define kE_BRA  @"Brazil"
+//#define kE_CRO  @"Croatia"
+//#define kE_MEX  @"Mexico"
+//#define kE_CMR  @"Cameroon"
+//
+//#define kE_ESP  @"Spain"
+//#define kE_NED  @"Netherlands"
+//#define kE_CHI  @"Chile"
+//#define kE_AUS  @"Australia"
+//
+//#define kE_COL  @"Colombia"
+//#define kE_GRE  @"Greece"
+//#define kE_CIV  @"Côte d'Ivoire"
+//#define kE_JPN  @"Japan"
+//
+//#define kE_URU  @"Uruguay"
+//#define kE_CRC  @"Costa Rica"
+//#define kE_ENG  @"England"
+//#define kE_ITA  @"Italy"
+//
+//#define kE_SUI  @"Switzerland"
+//#define kE_ECU  @"Ecuador"
+//#define kE_FRA  @"France"
+//#define kE_HON  @"Honduras"
+//
+//#define kE_ARG  @"Argentina"
+//#define kE_BIH  @"Bosnia-H"
+//#define kE_IRN  @"Iran"
+//#define kE_NGA  @"Nigeria"
+//
+//#define kE_GER  @"Germany"
+//#define kE_POR  @"Portugal"
+//#define kE_GHA  @"Ghana"
+//#define kE_USA  @"USA"
+//
+//#define kE_BEL  @"Belgium"
+//#define kE_ALG  @"Algeria"
+//#define kE_RUS  @"Russia"
+//#define kE_KOR  @"Korea"
+=======
+//country enName
+#define kE_BRA  @"Brazil"
+#define kE_CRO  @"Croatia"
+#define kE_MEX  @"Mexico"
+#define kE_CMR  @"Cameroon"
+
+#define kE_ESP  @"Spain"
+#define kE_NED  @"Netherlands"
+#define kE_CHI  @"Chile"
+#define kE_AUS  @"Australia"
+
+#define kE_COL  @"Colombia"
+#define kE_GRE  @"Greece"
+#define kE_CIV  @"Côte d'Ivoire"
+#define kE_JPN  @"Japan"
+
+#define kE_URU  @"Uruguay"
+#define kE_CRC  @"Costa Rica"
+#define kE_ENG  @"England"
+#define kE_ITA  @"Italy"
+
+#define kE_SUI  @"Switzerland"
+#define kE_ECU  @"Ecuador"
+#define kE_FRA  @"France"
+#define kE_HON  @"Honduras"
+
+#define kE_ARG  @"Argentina"
+#define kE_BIH  @"Bosnia-H"
+#define kE_IRN  @"Iran"
+#define kE_NGA  @"Nigeria"
+
+#define kE_GER  @"Germany"
+#define kE_POR  @"Portugal"
+#define kE_GHA  @"Ghana"
+#define kE_USA  @"USA"
+
+#define kE_BEL  @"Belgium"
+#define kE_ALG  @"Algeria"
+#define kE_RUS  @"Russia"
+#define kE_KOR  @"Korea"
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 
 
 @interface Params : NSObject

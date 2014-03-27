@@ -221,7 +221,11 @@ static CGPoint RotateCGPointAroundCenter(CGPoint point, CGPoint center, float an
 
 
 - (void)_setMenu {
+<<<<<<< HEAD
 	int count = [_menusArray count];
+=======
+	int count = (int)[_menusArray count];
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
     for (int i = 0; i < count; i ++)
     {
         AwesomeMenuItem *item = [_menusArray objectAtIndex:i];

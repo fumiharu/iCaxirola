@@ -7,20 +7,41 @@
 //
 
 #import "UIView+iCaxirola.h"
+<<<<<<< HEAD
 #import "ViewController.h"
+=======
+<<<<<<< HEAD
+#import "ViewController.h"
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 
 @implementation UIView (iCaxirola)
 - (UIView*)AdMobBanner{
     GADBannerView *bannerView = [[GADBannerView alloc]init];
     bannerView = [[GADBannerView alloc]initWithAdSize:kGADAdSizeSmartBannerLandscape];
     bannerView.adUnitID = kAdUnitID;
+<<<<<<< HEAD
     bannerView.rootViewController = (UIViewController*)self;
+=======
+<<<<<<< HEAD
+    bannerView.rootViewController = (UIViewController*)self;
+=======
+    bannerView.rootViewController = self;
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
     [self addSubview:bannerView];
     [bannerView loadRequest:[GADRequest request]];
     return bannerView;
 }
+<<<<<<< HEAD
 - (void)aniani:(UIView*)vieww{
 //-(void)addSubview:(UIView *)view ob:(UIView *)vieww{
+=======
+<<<<<<< HEAD
+- (void)aniani:(UIView*)vieww{
+
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
     ViewController *vc = [[ViewController alloc]init];
     vieww = [[UIView alloc]initWithFrame:CGRectMake(0, 0, vc.view.bounds.size.width, vc.view.bounds.size.height)];
     vieww.alpha = 0;
@@ -30,7 +51,11 @@
     [UIView setAnimationCurve:UIViewAnimationCurveEaseInOut];
     [UIView setAnimationDuration:0.2];
     vieww.alpha = 0.9;
+<<<<<<< HEAD
 //    [UIView commitAnimations];
+=======
+    //    [UIView commitAnimations];
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
     NSLog(@"tooru");
 }
 
@@ -44,8 +69,20 @@
     [UIView setAnimationCurve:UIViewAnimationCurveEaseInOut];
     [UIView setAnimationDuration:0.2];
     fff.alpha = 0.9;
+<<<<<<< HEAD
 //    [UIView commitAnimations];
     return fff;
 }
+=======
+    //    [UIView commitAnimations];
+    return fff;
+}
+
+-(void)addSubview:(UIView *)view POINT:(CGPoint)point{
+}
+
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 @end
 

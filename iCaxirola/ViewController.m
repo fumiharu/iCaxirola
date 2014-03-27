@@ -6,7 +6,14 @@
 //  Copyright (c) 2014年 FumiharuSugawara. All rights reserved.
 //
 #import "ViewController.h"
+<<<<<<< HEAD
 #import "UIView+iCaxirola.h"
+=======
+<<<<<<< HEAD
+#import "UIView+iCaxirola.h"
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 #import <AVFoundation/AVFoundation.h>
 #import <AudioToolbox/AudioToolbox.h>
 
@@ -17,21 +24,38 @@
     AVAudioPlayer *SoundAudio0;
     AVAudioPlayer *SoundAudio1;
     SystemSoundID soundSystem;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
     UIButton *flagSelectBtn;
     UIButton *pressCloseFLW;
     UIScrollView *scroll;
     UIImageView *InitialValue;
     UIView *flagsListWindow;
+<<<<<<< HEAD
     UIView *star;
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
     NSUserDefaults *ud;
     NSArray *arrayImage;
     NSArray *arrayImage2;
     NSArray *arrayName;
     NSArray *arrayKeys;
+<<<<<<< HEAD
     CALayer* layerlist[FIRE_COUNT];
 }
 
 @property (strong, nonatomic) IBOutlet UIWebView *WebView;
+=======
+}
+
+@property (strong, nonatomic) IBOutlet UIWebView *WebView;
+=======
+}
+- (IBAction)settingBtn:(id)sender;
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 @end
 
 @implementation ViewController
@@ -44,6 +68,14 @@
 //        UITouch *touch = [touches anyObject];
 //        CGPoint touchPos = [touch locationInView:_mainCaxirola];
 //        _mainCaxirola.center = touchPos;
+<<<<<<< HEAD
+//        UIImageView *IMAG = [[UIImageView alloc]initWithImage:[UIImage imageNamed:@"close.png"]];
+//
+//        [IMAG pointInside:CGPointMake(touchPos.x, touchPos.y) withEvent:event];
+//        [self.view addSubview:IMAG];
+//        
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 //        NSLog(@"%f, %f", touchPos.x, touchPos.y);
 //    }
     //    CGPoint pt = [[touches anyObject] locationInView:self.view];
@@ -103,7 +135,26 @@
 {
     [super viewDidLoad];
     [UIApplication sharedApplication].statusBarHidden = YES;
+<<<<<<< HEAD
     _mainCaxirola.image = [UIImage imageNamed:k_BRA];
+=======
+<<<<<<< HEAD
+    
+=======
+    _mainCaxirola.image = [UIImage imageNamed:@"1_brazil.png"];
+    
+    //    UIScrollView *scr = [[UIScrollView alloc]initWithFrame:CGRectMake(self.view.frame.size.width/2, self.view.frame.size.height/2, self.view.frame.size.width/2, self.view.frame.size.height/2)];
+    //    [scr setBackgroundColor:[UIColor redColor]];
+    //    scr.contentSize = CGSizeMake(1200, 1200);
+    //    [self.view addSubview:scr];
+    //
+    UIButton *vc = [[UIButton alloc]initWithFrame:CGRectMake(480, 240, 200, 200)];
+    [vc addTarget:self action:@selector(settingBtn:) forControlEvents:UIControlEventTouchUpInside];
+    [self.view addSubview:vc];
+    
+    //    self.mainCaxirola.image = [UIImage imageNamed:kBRA];
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
     //    UITapGestureRecognizer *swipeGesture = [[UITapGestureRecognizer alloc]initWithTarget:self action:@selector(swipeGesture:)];
     //    swipeGesture.numberOfTapsRequired = 3;
     //    UITapGestureRecognizer *tapGesture = [[UITapGestureRecognizer alloc]initWithTarget:self action:@selector(tapGesture:)];
@@ -111,11 +162,27 @@
     //    [self.view addGestureRecognizer:swipeGesture];
     //    [self.view addGestureRecognizer:tapGesture];
     
+<<<<<<< HEAD
     NSURL *url1 = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"maracas0" ofType:@"wav"]];
     SoundAudio0 = [[AVAudioPlayer alloc] initWithContentsOfURL:url1 error:nil];
     [SoundAudio0 prepareToPlay];
 
     NSURL *url2 = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"maracas1" ofType:@"wav"]];
+=======
+<<<<<<< HEAD
+    NSURL *url1 = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"maracas0" ofType:@"wav"]];
+    SoundAudio0 = [[AVAudioPlayer alloc] initWithContentsOfURL:url1 error:nil];
+    [SoundAudio0 prepareToPlay];
+    
+    NSURL *url2 = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"maracas1" ofType:@"wav"]];
+=======
+    NSURL *url1 = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"maracas" ofType:@"wav"]];
+    SoundAudio0 = [[AVAudioPlayer alloc] initWithContentsOfURL:url1 error:nil];
+    [SoundAudio0 prepareToPlay];
+    //
+    NSURL *url2 = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"maracas-reverse" ofType:@"wav"]];
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
     SoundAudio1 = [[AVAudioPlayer alloc] initWithContentsOfURL:url2 error:nil];
     [SoundAudio1 prepareToPlay];
     
@@ -126,6 +193,7 @@
     
     //SounSystemIDの準備
     //    NSURL *url2 = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"beam" ofType:@"wav"]];
+<<<<<<< HEAD
     //    AudioServicesCreateSystemSoundID((__bridhge CFURLRef)url2, &soundSystem);
     
     
@@ -159,6 +227,43 @@
 //    menu.delegate = self;
 
 
+=======
+    //    AudioServicesCreateSystemSoundID((__bridge CFURLRef)url2, &soundSystem);
+<<<<<<< HEAD
+    
+    UIImage *storyMenuItemImage = [UIImage imageNamed:@"bg-menuitem.png"];
+    UIImage *storyMenuItemImagePressed = [UIImage imageNamed:@"bg-menuitem-highlighted.png"];
+    UIImage *starImage = [UIImage imageNamed:@"icon-star.png"];
+    
+    AwesomeMenuItem *starMenuItem1 = [[AwesomeMenuItem alloc] initWithImage:storyMenuItemImage
+                                                           highlightedImage:storyMenuItemImagePressed
+                                                               ContentImage:starImage
+                                                    highlightedContentImage:nil];
+    AwesomeMenuItem *starMenuItem2 = [[AwesomeMenuItem alloc] initWithImage:storyMenuItemImage
+                                                           highlightedImage:storyMenuItemImagePressed
+                                                               ContentImage:starImage
+                                                    highlightedContentImage:nil];
+    AwesomeMenuItem *starMenuItem3 = [[AwesomeMenuItem alloc] initWithImage:storyMenuItemImage
+                                                           highlightedImage:storyMenuItemImagePressed
+                                                               ContentImage:starImage
+                                                    highlightedContentImage:nil];
+//    AwesomeMenuItem *starMenuItem4 = [[AwesomeMenuItem alloc] initWithImage:storyMenuItemImage
+//                                                           highlightedImage:storyMenuItemImagePressed
+//                                                               ContentImage:starImage
+//                                                    highlightedContentImage:nil];
+    
+    NSArray *menus = [NSArray arrayWithObjects:starMenuItem1, starMenuItem2, starMenuItem3, nil];
+    
+    AwesomeMenuItem *startItem = [[AwesomeMenuItem alloc] initWithImage:[UIImage imageNamed:@"bg-addbutton.png"]
+                                                       highlightedImage:[UIImage imageNamed:@"bg-addbutton-highlighted.png"]
+                                                           ContentImage:[UIImage imageNamed:@"icon-plus.png"]
+                                                highlightedContentImage:[UIImage imageNamed:@"icon-plus-highlighted.png"]];
+    
+    AwesomeMenu *menu = [[AwesomeMenu alloc] initWithFrame:self.view.bounds startItem:startItem optionMenus:menus];
+    menu.delegate = self;
+    
+    
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
     
     
     
@@ -204,6 +309,7 @@
      
      */
     
+<<<<<<< HEAD
 //    [self.view addSubview:menu];
     
 //    float radius = (rand() % 5 + 1) * 50;   //  拡散半径をランダムに設定
@@ -322,6 +428,11 @@
 {
     return ((float)index / (float)FIRE_COUNT) * 2.0 * 3.14;
 }
+=======
+    [self.view addSubview:menu];
+}
+
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 - (void)awesomeMenu:(AwesomeMenu *)menu didSelectIndex:(NSInteger)idx
 {
     NSArray *ServiceType = [NSArray arrayWithObjects:SLServiceTypeFacebook, SLServiceTypeTwitter, nil];
@@ -334,12 +445,21 @@
     //    [_WebView loadRequest:req];
     switch (idx) {
         case 0:
+<<<<<<< HEAD
             [TypeFacebook setInitialText:@"Feeling right now?!"];
             [self presentViewController:TypeFacebook animated:YES completion:nil];
             break;
         case 1:
             [TypeTwitter setInitialText:@"Feeling right now?! #"];
             [self presentViewController:TypeTwitter animated:YES completion:nil];
+=======
+                [TypeFacebook setInitialText:@"Feeling right now?!"];
+                [self presentViewController:TypeFacebook animated:YES completion:nil];
+            break;
+        case 1:
+                [TypeTwitter setInitialText:@"Feeling right now?! #"];
+                [self presentViewController:TypeTwitter animated:YES completion:nil];
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
             break;
         case 2:
         {
@@ -440,8 +560,14 @@
     NSLog(@"Menu is open!");
 }
 
+<<<<<<< HEAD
 -(void)pressFlagSelected:(UIButton*)bota{
     NSString *asda = [NSString stringWithFormat:@"%ld", (long)bota.tag];
+=======
+
+-(void)pressFlagSelected:(UIButton*)bota{
+    NSString *asda = [NSString stringWithFormat:@"%d", bota.tag];
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
     NSDictionary *dict = [NSDictionary dictionaryWithObjects:arrayImage2 forKeys:arrayKeys];
     NSString *stt = [dict objectForKey:asda];
     _mainCaxirola.image = [UIImage imageNamed:stt];
@@ -485,23 +611,78 @@
     pressCloseFLW.alpha = 0;
     [UIView commitAnimations];
 }
+<<<<<<< HEAD
+=======
+=======
+}
+
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
 }
 
+<<<<<<< HEAD
 //-(void)touchesMoved:(NSSet *)touches withEvent:(UIEvent *)event
 //-(void)swipeGesture:(UITapGestureRecognizer*)sender
 //{
 //    [SoundAudio0 play];
 //    [SoundAudio1 play];
 //}
+=======
+<<<<<<< HEAD
+//-(void)touchesMoved:(NSSet *)touches withEvent:(UIEvent *)event
+////-(void)swipeGesture:(UITapGestureRecognizer*)sender
+//{
+//    [SoundAudio0 play];
+//    [SoundAudio1 play];
+//}
+=======
+-(void)touchesMoved:(NSSet *)touches withEvent:(UIEvent *)event
+//-(void)swipeGesture:(UITapGestureRecognizer*)sender
+{
+    [SoundAudio0 play];
+    [SoundAudio1 play];
+}
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 
 //-(void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event
 ////-(void)tapGesture:(UITapGestureRecognizer*)sender
 //{
 //}
 
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+
+=======
+- (IBAction)settingBtn:(id)sender {
+    SettingViewController *settingView = [[SettingViewController alloc]initWithNibName:@"SettingViewController" bundle:Nil];
+    [self presentViewController:settingView animated:YES completion:nil];
+}
+
+//#pragma delegate method
+-(void)method:(UIButton*)btnTag{
+    UIImageView *asd = [[UIImageView alloc]initWithFrame:CGRectMake(130, 25, 85, 85)];
+    asd.image = [UIImage imageNamed:kMEX];
+    switch (btnTag.tag) {
+        case 0:
+            break;
+        case 1:
+            [self viewDidLoad];
+            self.view.backgroundColor = [[UIColor alloc]initWithPatternImage:[UIImage imageNamed:kMEX]];
+            _mainCaxirola.backgroundColor = [[UIColor alloc]initWithPatternImage:[UIImage imageNamed:kMEX]];
+            NSLog(@"case");
+            break;
+        default:
+            NSLog(@"以外");
+            break;
+    }
+}
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 @end

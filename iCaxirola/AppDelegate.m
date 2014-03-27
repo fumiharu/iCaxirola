@@ -8,12 +8,22 @@
 
 #import "AppDelegate.h"
 #import "ViewController.h"
+<<<<<<< HEAD
 #import "GAI.h"
+=======
+<<<<<<< HEAD
+#import "GAI.h"
+#import "GAIFields.h"
+#import "GAIDictionaryBuilder.h"
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+<<<<<<< HEAD
     [GAI sharedInstance].trackUncaughtExceptions = YES;
     [GAI sharedInstance].dispatchInterval = 20;
     [[[GAI sharedInstance]logger]setLogLevel:kGAILogLevelVerbose];
@@ -33,6 +43,35 @@
 /* ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇ */
 
 
+=======
+<<<<<<< HEAD
+
+    
+    self.window.rootViewController = [[ViewController alloc] initWithNibName:@"ViewController" bundle:nil];
+    
+    [GAI sharedInstance].trackUncaughtExceptions = YES;
+    [GAI sharedInstance].dispatchInterval = 20;
+    [[[GAI sharedInstance]logger]setLogLevel:kGAILogLevelVerbose];
+    id<GAITracker> tracker = [[GAI sharedInstance]trackerWithTrackingId:@"UA-48711348-1"];
+    [tracker set:kGAIScreenName value:@"TEST-HOME-SCREEN"];
+    [tracker send:[[GAIDictionaryBuilder createAppView]build]];
+    
+        return YES;
+}
+
+/* ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇ */
+/* ⬇⬇⬇⬇⬇⬇ GET RESPONSE OF MENU ⬇⬇⬇⬇⬇⬇ */
+/* ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇ */
+
+
+=======
+    self.window.rootViewController = [[ViewController alloc]initWithNibName:@"ViewController" bundle:nil];
+
+    return YES;
+}
+							
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 - (void)applicationWillResignActive:(UIApplication *)application
 {
     // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.
@@ -41,7 +80,15 @@
 
 - (void)applicationDidEnterBackground:(UIApplication *)application
 {
+<<<<<<< HEAD
     // Use this method to release shared resources, save user data, invalidate timers, and store enough application state information to restore your application to its current state in case it is terminated later.
+=======
+<<<<<<< HEAD
+    // Use this method to release shared resources, save user data, invalidate timers, and store enough application state information to restore your application to its current state in case it is terminated later.
+=======
+    // Use this method to release shared resources, save user data, invalidate timers, and store enough application state information to restore your application to its current state in case it is terminated later. 
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
     // If your application supports background execution, this method is called instead of applicationWillTerminate: when the user quits.
 }
 

@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<<<<<<< HEAD
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="5053" systemVersion="13C64" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
     <dependencies>
         <deployment defaultVersion="1792" identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
+=======
+<<<<<<< HEAD
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="4510" systemVersion="13C64" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment version="1792" identifier="iOS"/>
+=======
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="4510" systemVersion="13B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment defaultVersion="1536" identifier="iOS"/>
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3742"/>
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
     </dependencies>
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ViewController">
             <connections>
+<<<<<<< HEAD
                 <outlet property="mainCaxirola" destination="gg0-v7-vQC" id="jT1-sO-fqb"/>
+=======
+<<<<<<< HEAD
+                <outlet property="mainCaxirola" destination="SHl-6S-BjC" id="z57-Ep-0R2"/>
+                <outlet property="view" destination="1" id="5rM-Pi-pcc"/>
+=======
+                <outlet property="mainCaxirola" destination="gg0-v7-vQC" id="zS0-tw-jBq"/>
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
                 <outlet property="view" destination="1" id="1GF-ts-3Ud"/>
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
             </connections>
         </placeholder>
         <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
@@ -16,15 +38,50 @@
             <rect key="frame" x="0.0" y="0.0" width="568" height="320"/>
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="SHl-6S-BjC">
+                    <rect key="frame" x="0.0" y="0.0" width="568" height="320"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+=======
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="lNM-Hv-6ev">
+                    <rect key="frame" x="307" y="118" width="51" height="48"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" title="Button" image="setting.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="settingBtn:" destination="-1" eventType="touchUpInside" id="OMX-93-xeC"/>
+                    </connections>
+                </button>
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="gg0-v7-vQC">
                     <rect key="frame" x="0.0" y="0.0" width="568" height="320"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                 </imageView>
             </subviews>
+<<<<<<< HEAD
             <color key="backgroundColor" red="1" green="0.97934633091704248" blue="0.94213496437993649" alpha="1" colorSpace="calibratedRGB"/>
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
             <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
             <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
         </view>
         <customObject id="jEs-d0-vZs" userLabel="App Delegate"/>
     </objects>
+<<<<<<< HEAD
 </document>
+=======
+<<<<<<< HEAD
+=======
+    <resources>
+        <image name="setting.png" width="256" height="256"/>
+    </resources>
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+</document>
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5

@@ -5,7 +5,15 @@
 		<key>CFBundleDevelopmentRegion</key>
 		<string>English</string>
 		<key>CFBundleIdentifier</key>
+<<<<<<< HEAD
 		<string>com.apple.xcode.dsym.iCaxirola</string>
+=======
+<<<<<<< HEAD
+		<string>com.apple.xcode.dsym.iCaxirola</string>
+=======
+		<string>com.apple.xcode.dsym.-.iCaxirola</string>
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 		<key>CFBundleInfoDictionaryVersion</key>
 		<string>6.0</string>
 		<key>CFBundlePackageType</key>

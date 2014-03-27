@@ -3,12 +3,29 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
+<<<<<<< HEAD
+	<string>V2P4ADA4S6.iCaxirola</string>
+=======
+<<<<<<< HEAD
 	<string>V2P4ADA4S6.iCaxirola</string>
 	<key>get-task-allow</key>
 	<false/>
 	<key>keychain-access-groups</key>
 	<array>
 		<string>V2P4ADA4S6.iCaxirola</string>
+=======
+	<string>V2P4ADA4S6.-.iCaxirola</string>
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+	<key>get-task-allow</key>
+	<false/>
+	<key>keychain-access-groups</key>
+	<array>
+<<<<<<< HEAD
+		<string>V2P4ADA4S6.iCaxirola</string>
+=======
+		<string>V2P4ADA4S6.-.iCaxirola</string>
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 	</array>
 </dict>
 </plist>

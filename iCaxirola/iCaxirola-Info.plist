@@ -9,6 +9,7 @@
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<key>CFBundleIcons</key>
 	<dict>
 		<key>CFBundlePrimaryIcon</key>
@@ -24,6 +25,8 @@
 	<string>${PRODUCT_NAME:rfc1034identifier}</string>
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 	<key>CFBundleIconFiles</key>
 	<array>
 		<string>Icon-Small</string>
@@ -36,6 +39,9 @@
 	<key>CFBundleIdentifier</key>
 	<string>-.${PRODUCT_NAME:rfc1034identifier}</string>
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>

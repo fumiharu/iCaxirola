@@ -1,5 +1,6 @@
 dependencies: \
 <<<<<<< HEAD
+<<<<<<< HEAD
   /Users/fumiharu/iCaxirola/iCaxirola/AwesomeMenu/AwesomeMenuItem.m \
   /Users/fumiharu/iCaxirola/iCaxirola/AwesomeMenu/AwesomeMenuItem.h \
   /Users/fumiharu/iCaxirola/iCaxirola/ViewController.h \
@@ -12,6 +13,8 @@ dependencies: \
   /Users/fumiharu/iCaxirola/iCaxirola/GADRequestError.h \
   /Users/fumiharu/iCaxirola/iCaxirola/UIView+iCaxirola.h
 =======
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
   /Users/fumiharu/Desktop/iCaxirola/iCaxirola/AwesomeMenu/AwesomeMenuItem.m \
   /Users/fumiharu/Desktop/iCaxirola/iCaxirola/AwesomeMenu/AwesomeMenuItem.h \
   /Users/fumiharu/Desktop/iCaxirola/iCaxirola/ViewController.h \
@@ -23,4 +26,7 @@ dependencies: \
   /Users/fumiharu/Desktop/iCaxirola/Admob/GADRequest.h \
   /Users/fumiharu/Desktop/iCaxirola/Admob/GADRequestError.h \
   /Users/fumiharu/Desktop/iCaxirola/iCaxirola/UIView+iCaxirola.h
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5

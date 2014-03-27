@@ -222,7 +222,11 @@ static CGPoint RotateCGPointAroundCenter(CGPoint point, CGPoint center, float an
 
 - (void)_setMenu {
 <<<<<<< HEAD
+<<<<<<< HEAD
 	int count = [_menusArray count];
+=======
+	int count = (int)[_menusArray count];
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 	int count = (int)[_menusArray count];
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 dependencies: /Users/fumiharu/iCaxirola/iCaxirola/AppDelegate.m \
   /Users/fumiharu/iCaxirola/iCaxirola/AppDelegate.h \
   /Users/fumiharu/iCaxirola/iCaxirola/ViewController.h \
@@ -12,6 +13,8 @@ dependencies: /Users/fumiharu/iCaxirola/iCaxirola/AppDelegate.m \
   /Users/fumiharu/iCaxirola/iCaxirola/GADRequestError.h \
   /Users/fumiharu/iCaxirola/iCaxirola/UIView+iCaxirola.h
 =======
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 dependencies: /Users/fumiharu/Desktop/iCaxirola/iCaxirola/AppDelegate.m \
   /Users/fumiharu/Desktop/iCaxirola/iCaxirola/AppDelegate.h \
   /Users/fumiharu/Desktop/iCaxirola/iCaxirola/ViewController.h \
@@ -24,4 +27,7 @@ dependencies: /Users/fumiharu/Desktop/iCaxirola/iCaxirola/AppDelegate.m \
   /Users/fumiharu/Desktop/iCaxirola/Admob/GADRequest.h \
   /Users/fumiharu/Desktop/iCaxirola/Admob/GADRequestError.h \
   /Users/fumiharu/Desktop/iCaxirola/iCaxirola/UIView+iCaxirola.h
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5

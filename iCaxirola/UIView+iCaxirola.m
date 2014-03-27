@@ -11,7 +11,11 @@
 #import "ViewController.h"
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 #import "ViewController.h"
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
@@ -25,7 +29,12 @@
     bannerView.rootViewController = (UIViewController*)self;
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
     bannerView.rootViewController = (UIViewController*)self;
+=======
+    bannerView.rootViewController = self;
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
     bannerView.rootViewController = self;
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
@@ -36,10 +45,14 @@
 }
 <<<<<<< HEAD
 - (void)aniani:(UIView*)vieww{
+<<<<<<< HEAD
 //-(void)addSubview:(UIView *)view ob:(UIView *)vieww{
 =======
 <<<<<<< HEAD
 - (void)aniani:(UIView*)vieww{
+
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
     ViewController *vc = [[ViewController alloc]init];
@@ -52,7 +65,11 @@
     [UIView setAnimationDuration:0.2];
     vieww.alpha = 0.9;
 <<<<<<< HEAD
+<<<<<<< HEAD
 //    [UIView commitAnimations];
+=======
+    //    [UIView commitAnimations];
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
     //    [UIView commitAnimations];
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
@@ -70,10 +87,13 @@
     [UIView setAnimationDuration:0.2];
     fff.alpha = 0.9;
 <<<<<<< HEAD
+<<<<<<< HEAD
 //    [UIView commitAnimations];
     return fff;
 }
 =======
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
     //    [UIView commitAnimations];
     return fff;
 }
@@ -83,6 +103,9 @@
 
 =======
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 @end
 

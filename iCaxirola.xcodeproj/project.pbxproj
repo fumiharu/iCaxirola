@@ -8,9 +8,12 @@
 
 /* Begin PBXBuildFile section */
 <<<<<<< HEAD
+<<<<<<< HEAD
 		14FF75E3016B4CFC835C2DCD /* libPods-iCaxirolaTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4298634E201F4A40BDF654BF /* libPods-iCaxirolaTests.a */; };
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 		2783D63D18C6229200D5768E /* close.png in Resources */ = {isa = PBXBuildFile; fileRef = 2783D63C18C6229200D5768E /* close.png */; };
 		2799D91518C77DB400720698 /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2783D63B18C621BE00D5768E /* Icon-60@2x.png */; };
 		2799D91618C77DB700720698 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2783D63E18C6240900D5768E /* Icon-Small@2x.png */; };
@@ -127,6 +130,9 @@
 			containerPortal = 27BDF25018C5972C00049CF9 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 27BDF25718C5972C00049CF9;
+=======
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 		271DE35818B64BF200226209 /* UIView+iCaxirola.m in Sources */ = {isa = PBXBuildFile; fileRef = 271DE35718B64BF200226209 /* UIView+iCaxirola.m */; };
@@ -760,7 +766,11 @@
 				27500ACB18AB87E700703749 /* UIKit.framework in Frameworks */,
 				27500ACA18AB87E700703749 /* Foundation.framework in Frameworks */,
 <<<<<<< HEAD
+<<<<<<< HEAD
 				14FF75E3016B4CFC835C2DCD /* libPods-iCaxirolaTests.a in Frameworks */,
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
@@ -1028,6 +1038,9 @@
 =======
 				27500AC718AB87E700703749 /* iCaxirolaTests.xctest */,
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 			);
 			name = Products;
@@ -1073,10 +1086,14 @@
 				27500AAD18AB87E600703749 /* UIKit.framework */,
 				27500AC818AB87E700703749 /* XCTest.framework */,
 <<<<<<< HEAD
+<<<<<<< HEAD
 				27F7126D18BDA5F200A4394C /* AwesomeMenu */,
 				27500B1518ABA5A200703749 /* AdMob */,
 				27616F3A18E30AC2009CB95C /* GoogleAnalyticsServicesiOS_3.03c */,
 				4298634E201F4A40BDF654BF /* libPods-iCaxirolaTests.a */,
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
@@ -1172,8 +1189,12 @@
 			children = (
 				27500ACF18AB87E700703749 /* Supporting Files */,
 <<<<<<< HEAD
+<<<<<<< HEAD
 				2759BA5D18DC0C5300E5D032 /* KIFiCaxirolaTests.h */,
 				2759BA5E18DC0C5300E5D032 /* KIFiCaxirolaTests.m */,
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
@@ -1596,6 +1617,7 @@
 			);
 			name = mainFlags;
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+<<<<<<< HEAD
 			sourceTree = "<group>";
 		};
 		27F7126D18BDA5F200A4394C /* AwesomeMenu */ = {
@@ -1629,6 +1651,8 @@
 				27F7128218BDA6B500A4394C /* icon-star@2x.png */,
 			);
 			path = Images;
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -1682,7 +1706,11 @@
 				27500AC418AB87E700703749 /* Frameworks */,
 				27500AC518AB87E700703749 /* Resources */,
 <<<<<<< HEAD
+<<<<<<< HEAD
 				9D19F14566AD48719CE6607B /* Copy Pods Resources */,
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
@@ -1706,6 +1734,9 @@
 =======
 			productReference = 27500AC718AB87E700703749 /* iCaxirolaTests.xctest */;
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
@@ -1723,11 +1754,14 @@
 				ORGANIZATIONNAME = FumiharuSugawara;
 				TargetAttributes = {
 <<<<<<< HEAD
+<<<<<<< HEAD
 					27500AA518AB87E600703749 = {
 						DevelopmentTeam = V2P4ADA4S6;
 					};
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 					27BDF25718C5972C00049CF9 = {
 						DevelopmentTeam = V2P4ADA4S6;
 					};
@@ -1737,6 +1771,9 @@
 				};
 			};
 			buildConfigurationList = 27BDF25318C5972C00049CF9 /* Build configuration list for PBXProject "iCaxirola" */;
+=======
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 					27500AC618AB87E700703749 = {
@@ -1796,6 +1833,7 @@
 
 <<<<<<< HEAD
 /* Begin PBXReferenceProxy section */
+<<<<<<< HEAD
 		27616FB518E30AC3009CB95C /* CuteAnimals.app */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.application;
@@ -1811,6 +1849,8 @@
 =======
 <<<<<<< HEAD
 /* Begin PBXReferenceProxy section */
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 		2799D99618C83FA300720698 /* CuteAnimals.app */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.application;
@@ -1823,13 +1863,19 @@
 			fileType = wrapper.application;
 			path = CuteAnimals.app;
 			remoteRef = 2799D99818C83FA300720698 /* PBXContainerItemProxy */;
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 /* End PBXReferenceProxy section */
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 /* Begin PBXResourcesBuildPhase section */
 		27BDF25618C5972C00049CF9 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
@@ -1909,6 +1955,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				27BDF28518C5972C00049CF9 /* InfoPlist.strings in Resources */,
+=======
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 /* Begin PBXResourcesBuildPhase section */
@@ -2078,6 +2127,9 @@
 =======
 				27500AD518AB87E700703749 /* iCaxirolaTests.m in Sources */,
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -2260,7 +2312,11 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 <<<<<<< HEAD
+<<<<<<< HEAD
 				PROVISIONING_PROFILE = "5805F5E8-06E6-40AF-816D-3DC693082C19";
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
@@ -2306,7 +2362,11 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 <<<<<<< HEAD
+<<<<<<< HEAD
 				PROVISIONING_PROFILE = "5805F5E8-06E6-40AF-816D-3DC693082C19";
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5

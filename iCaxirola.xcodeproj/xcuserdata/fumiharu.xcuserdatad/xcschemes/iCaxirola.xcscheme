@@ -41,8 +41,11 @@
 =======
                BlueprintIdentifier = "27500AC618AB87E700703749"
 <<<<<<< HEAD
+<<<<<<< HEAD
                BuildableName = "iCaxirolaTests.octest"
 =======
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
                BuildableName = "iCaxirolaTests.xctest"
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5

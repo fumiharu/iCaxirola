@@ -10,8 +10,11 @@
 
 #define kAdUnitID   @"ca-app-pub-4093245526421990/1515342265"
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 
 //matches http://touch.fifa.com/worldcup/matches/index.html
@@ -19,6 +22,11 @@
 //teams http://touch.fifa.com/worldcup/teams/index.html
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 =======
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
@@ -58,8 +66,11 @@
 #define kKOR	@"8_kor.png"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 #define k_BRA   @"1_brazil.png"
 #define k_CRO   @"1_croatia.png"
@@ -94,6 +105,7 @@
 #define k_RUS	@"8_rus.png"
 #define k_KOR	@"8_kor.png"
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 //country enName
 #define kE_BRA  @"bra"
@@ -176,6 +188,8 @@
 //#define kE_RUS  @"Russia"
 //#define kE_KOR  @"Korea"
 =======
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 //country enName
 #define kE_BRA  @"bra"
 #define kE_CRO  @"cro"
@@ -298,6 +312,9 @@
 #define kE_RUS  @"Russia"
 #define kE_KOR  @"Korea"
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 
 

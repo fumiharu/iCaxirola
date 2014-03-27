@@ -1,0 +1,824 @@
+TiCaxirolaTests
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/Info.plist /Users/fumiharu/iCaxirola/iCaxirolaTests/iCaxirolaTests-Info.plist
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Script-AEE77C80B2084C41BD0086C9.sh
+cProcessPCH /Users/fumiharu/iCaxirola/Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-bayuwqtinugfbsdlulqarpqxndio/iCaxirola-Prefix.pch.pch iCaxirola/iCaxirola-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/KIFiCaxirolaTests.o /Users/fumiharu/iCaxirola/iCaxirolaTests/KIFiCaxirolaTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/iCaxirolaTests normal i386
+cGenerateDSYMFile /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest.dSYM /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/iCaxirolaTests
+cCopyStringsFile /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/en.lproj/InfoPlist.strings iCaxirolaTests/en.lproj/InfoPlist.strings
+cPhaseScriptExecution Copy\ Pods\ Resources /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Script-9D19F14566AD48719CE6607B.sh
+cTouch /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/XCTest.framework/XCTest
+c00000000531FD94500000000000266D0
+t1394596165
+s157392
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/SenTestingKit
+c00000000531FD95E0000000000030230
+t1394596190
+s197168
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks/XCTest.framework/XCTest
+c00000000531FD95E0000000000026690
+t1394596190
+s157328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531FD95E00000000000003B4
+t1394596190
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531FD965000000000000019E
+t1394596197
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531FD968000000000058E0E0
+t1394596200
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531FD96800000000005B82F0
+t1394596200
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000531FD9680000000000446820
+t1394596200
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000531FD96800000000003599D0
+t1394596200
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531FD96800000000002FC3B0
+t1394596200
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000531FD968000000000004B000
+t1394596200
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531FD96A000000000088D8C0
+t1394596202
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000531FD96B0000000000037680
+t1394596203
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531FD96B000000000048F720
+t1394596203
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000531FD96B000000000013FD70
+t1394596203
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531FD96F0000000001F1DE10
+t1394596207
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531FD97900000000002BC360
+t1394596217
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/bundle1.o
+c00000000531FD9800000000000002220
+t1394596224
+s8736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000531FD981000000000008D370
+t1394596225
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000531FD9810000000000392E20
+t1394596225
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c0000000053100E8D00000000000141F0
+t1393561229
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000531FD9810000000000014A80
+t1394596225
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000531FD9810000000000033BA0
+t1394596225
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000531FD981000000000001CFB0
+t1394596225
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000531FD981000000000001B2B0
+t1394596225
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000531FD98100000000000C9570
+t1394596225
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531FD9810000000000063280
+t1394596225
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000531FD9810000000000008880
+t1394596225
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000531FD9810000000000015080
+t1394596225
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000531FD98100000000000230F0
+t1394596225
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000531FD981000000000000E380
+t1394596225
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531FD9810000000000089380
+t1394596225
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000531FD9810000000000017320
+t1394596225
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000531FD9810000000000039CD0
+t1394596225
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000531FD981000000000000B0B0
+t1394596225
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000531FD9820000000000167E80
+t1394596226
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000531FD98100000000000106A0
+t1394596225
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000531FD981000000000001CE40
+t1394596225
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000531FD98200000000000740C0
+t1394596226
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000531FD982000000000006CA60
+t1394596226
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000531FD982000000000001BAD0
+t1394596226
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531FD9820000000000084A20
+t1394596226
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531FD9960000000000000ADC
+t1394596246
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c00000000531FD996000000000000514C
+t1394596246
+s20812
+
+N/Users/fumiharu/iCaxirola/Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-bayuwqtinugfbsdlulqarpqxndio/iCaxirola-Prefix.pch.pch
+t1395190303
+s116320
+
+N/Users/fumiharu/iCaxirola/Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-cldpuodxncsmzaelhzjqqlihmfkt/iCaxirola-Prefix.pch.pch
+t1395381683
+s117064
+
+N/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/KIFiCaxirolaTests.o
+t1395414195
+s8036
+
+N/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/iCaxirolaTests.LinkFileList
+c00000000532C54850000000000000091
+t1395414149
+s145
+
+N/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/iCaxirolaTests.o
+c000000005328EA1F0000000000002058
+t1395190303
+s8280
+
+N/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/x86_64/KIFiCaxirolaTests.o
+t1395414109
+s7676
+
+N/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/x86_64/iCaxirolaTests.LinkFileList
+c00000000532BD5B20000000000000093
+t1395381682
+s147
+
+N/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Script-9D19F14566AD48719CE6607B.sh
+c000000005328EA1E000000000000003E
+t1395190302
+s62
+
+N/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Script-AEE77C80B2084C41BD0086C9.sh
+c000000005328EA1E0000000000000103
+t1395190302
+s259
+
+N/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola
+c00000000532C548500000000000A48E0
+t1395414149
+s674016
+
+N/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest
+t1395414195
+s204
+
+N/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest.dSYM
+t1395414150
+s102
+
+N/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/Info.plist
+t1395190302
+s499
+
+N/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/en.lproj/InfoPlist.strings
+t1395190303
+s42
+
+N/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/iCaxirolaTests
+t1395414195
+s164740
+
+N/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/libPods-iCaxirolaTests.a
+c00000000532C54850000000000099240
+t1395414149
+s627264
+
+N/Users/fumiharu/iCaxirola/iCaxirola/iCaxirola-Prefix.pch
+c00000000530C5A650000000000000158
+t1393318501
+s344
+
+N/Users/fumiharu/iCaxirola/iCaxirolaTests/KIFiCaxirolaTests.h
+c00000000532BD5AD00000000000000F6
+t1395381677
+s246
+
+N/Users/fumiharu/iCaxirola/iCaxirolaTests/KIFiCaxirolaTests.m
+c00000000532C54B20000000000000153
+t1395414194
+s339
+
+N/Users/fumiharu/iCaxirola/iCaxirolaTests/en.lproj/InfoPlist.strings
+c00000000530C5A65000000000000002D
+t1393318501
+s45
+
+N/Users/fumiharu/iCaxirola/iCaxirolaTests/iCaxirolaTests-Info.plist
+c00000000530C5A6500000000000002A9
+t1393318501
+s681
+
+N/Users/fumiharu/iCaxirola/iCaxirolaTests/iCaxirolaTests.m
+c000000005328EA1A00000000000002A2
+t1395190298
+s674
+
+N/usr/lib/libSystem.B.dylib
+c000000005281C02A000000000000E6D0
+t1384235050
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005281C0390000000000012A00
+t1384235065
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005281C01C000000000002E320
+t1384235036
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005281C02A0000000000021860
+t1384235050
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005281C038000000000001B620
+t1384235064
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005281C03800000000000BD920
+t1384235064
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c0000000053100E8D00000000000141F0
+t1393561229
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005281C039000000000000A120
+t1384235065
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000053100E8D000000000001D550
+t1393561229
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005281C0380000000000014EE0
+t1384235064
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005281C03A0000000000010380
+t1384235066
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005281C03A000000000000C4C0
+t1384235066
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005281C03900000000000357A0
+t1384235065
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005281C039000000000000C070
+t1384235065
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530299D10000000000168D00
+t1392679377
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c0000000053100E8D0000000000010630
+t1393561229
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000053100E8D000000000001DF10
+t1393561229
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005281C02A0000000000075B00
+t1384235050
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c00000000530299D0000000000007CCE0
+t1392679376
+s511200
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005281C02A00000000000766C0
+t1384235050
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530299D00000000000044DC0
+t1392679376
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005281C02A0000000000021FA0
+t1384235050
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000053100E8D000000000002D920
+t1393561229
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005281C039000000000001E570
+t1384235065
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000053100E8D000000000000CC70
+t1393561229
+s52336
+
+N/usr/lib/system/libsystem_stats.dylib
+c0000000053100E8D0000000000009A80
+t1393561229
+s39552
+
+N/usr/lib/system/libunc.dylib
+c000000005281C033000000000000C3F0
+t1384235059
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005281C03900000000000199F0
+t1384235065
+s104944
+
+CBuild AST from /Users/fumiharu/iCaxirola/iCaxirolaTests/KIFiCaxirolaTests.m
+r0
+
+CBuild AST from /Users/fumiharu/iCaxirola/iCaxirolaTests/iCaxirolaTests.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesde200a338cdcb841^73480a338cdcb841^---0#1#1#--18"Check dependencies36"273AF9B8-D69B-4C0F-A255-5509B622E3B6-
+
+CCompileC Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/KIFiCaxirolaTests.o /Users/fumiharu/iCaxirola/iCaxirolaTests/KIFiCaxirolaTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417106995.059706
+e417106995.103997
+r1
+xCompileC
+xBuild/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/KIFiCaxirolaTests.o
+x/Users/fumiharu/iCaxirola/iCaxirolaTests/KIFiCaxirolaTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/iCaxirola/iCaxirolaTests/KIFiCaxirolaTests.m
+d/Users/fumiharu/iCaxirola/iCaxirolaTests/KIFiCaxirolaTests.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/fumiharu/iCaxirola/iCaxirolaTests/KIFiCaxirolaTests.m230"CompileC Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/KIFiCaxirolaTests.o iCaxirolaTests/KIFiCaxirolaTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7c640f338cdcb841^a5a11a338cdcb841^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/fumiharu/iCaxirola/iCaxirolaTests/KIFiCaxirolaTests.m0000000000000000^4109"CompileC Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/KIFiCaxirolaTests.o iCaxirolaTests/KIFiCaxirolaTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/iCaxirola    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/iCaxirolaTests-generated-files.hmap -I/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/iCaxirolaTests-own-target-headers.hmap -I/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/iCaxirolaTests-all-target-headers.hmap -iquote /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/iCaxirolaTests-project-headers.hmap -I/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/iCaxirola/Pods/Headers -I/Users/fumiharu/iCaxirola/Pods/Headers/KIF -I/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/DerivedSources/i386 -I/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/DerivedSources -F/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -isystem/Users/fumiharu/iCaxirola/Pods/Headers -isystem/Users/fumiharu/iCaxirola/Pods/Headers/KIF -include /Users/fumiharu/iCaxirola/Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-bayuwqtinugfbsdlulqarpqxndio/iCaxirola-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/KIFiCaxirolaTests.d --serialize-diagnostics /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/KIFiCaxirolaTests.dia -c /Users/fumiharu/iCaxirola/iCaxirolaTests/KIFiCaxirolaTests.m -o /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/KIFiCaxirolaTests.o36"BF0F0418-5959-4FB5-B769-F0E384B43A45-
+bFD151085-0BC0-4CB8-B4F4-E53C2A071B80
+
+CCompileC Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/iCaxirolaTests.o /Users/fumiharu/iCaxirola/iCaxirolaTests/iCaxirolaTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416883103.387825
+e416883103.500429
+r1
+xCompileC
+xBuild/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/iCaxirolaTests.o
+x/Users/fumiharu/iCaxirola/iCaxirolaTests/iCaxirolaTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/iCaxirola/iCaxirolaTests/iCaxirolaTests.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/fumiharu/iCaxirola/iCaxirolaTests/iCaxirolaTests.m224"CompileC Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/iCaxirolaTests.o iCaxirolaTests/iCaxirolaTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc85e639f21d9b841^711c809f21d9b841^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/fumiharu/iCaxirola/iCaxirolaTests/iCaxirolaTests.m0000000000000000^3940"CompileC Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/iCaxirolaTests.o iCaxirolaTests/iCaxirolaTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/iCaxirola    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/iCaxirolaTests-generated-files.hmap -I/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/iCaxirolaTests-own-target-headers.hmap -I/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/iCaxirolaTests-all-target-headers.hmap -iquote /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/iCaxirolaTests-project-headers.hmap -I/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/iCaxirola/Pods/Headers -I/Users/fumiharu/iCaxirola/Pods/Headers/KIF -I/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/DerivedSources/i386 -I/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/DerivedSources -F/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -isystem/Users/fumiharu/iCaxirola/Pods/Headers -isystem/Users/fumiharu/iCaxirola/Pods/Headers/KIF -include /Users/fumiharu/iCaxirola/Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-bayuwqtinugfbsdlulqarpqxndio/iCaxirola-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/iCaxirolaTests.d --serialize-diagnostics /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/iCaxirolaTests.dia -c /Users/fumiharu/iCaxirola/iCaxirolaTests/iCaxirolaTests.m -o /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/iCaxirolaTests.o36"4DBDDEC2-3630-46AD-ADD2-69F19BF3FB3E-
+b9DB90876-4EBF-4F60-BA0A-33AF6AF21297
+
+CCompileC Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/x86_64/KIFiCaxirolaTests.o /Users/fumiharu/iCaxirola/iCaxirolaTests/KIFiCaxirolaTests.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417106909.717811
+e417106909.946214
+r1
+xCompileC
+xBuild/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/x86_64/KIFiCaxirolaTests.o
+x/Users/fumiharu/iCaxirola/iCaxirolaTests/KIFiCaxirolaTests.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/iCaxirola/iCaxirolaTests/KIFiCaxirolaTests.m
+d/Users/fumiharu/iCaxirola/iCaxirolaTests/KIFiCaxirolaTests.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/fumiharu/iCaxirola/iCaxirolaTests/KIFiCaxirolaTests.m234"CompileC Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/x86_64/KIFiCaxirolaTests.o iCaxirolaTests/KIFiCaxirolaTests.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0edab7dd8bdcb841^2e3df2dd8bdcb841^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/fumiharu/iCaxirola/iCaxirolaTests/KIFiCaxirolaTests.m0000000000000000^4123"CompileC Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/x86_64/KIFiCaxirolaTests.o iCaxirolaTests/KIFiCaxirolaTests.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/iCaxirola    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/iCaxirolaTests-generated-files.hmap -I/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/iCaxirolaTests-own-target-headers.hmap -I/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/iCaxirolaTests-all-target-headers.hmap -iquote /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/iCaxirolaTests-project-headers.hmap -I/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/iCaxirola/Pods/Headers -I/Users/fumiharu/iCaxirola/Pods/Headers/KIF -I/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/DerivedSources/x86_64 -I/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/DerivedSources -F/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -isystem/Users/fumiharu/iCaxirola/Pods/Headers -isystem/Users/fumiharu/iCaxirola/Pods/Headers/KIF -include /Users/fumiharu/iCaxirola/Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-cldpuodxncsmzaelhzjqqlihmfkt/iCaxirola-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/x86_64/KIFiCaxirolaTests.d --serialize-diagnostics /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/x86_64/KIFiCaxirolaTests.dia -c /Users/fumiharu/iCaxirola/iCaxirolaTests/KIFiCaxirolaTests.m -o /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/x86_64/KIFiCaxirolaTests.o36"250D0FF7-2E91-473E-8CC6-1070742E9F71-
+b439C2470-67D8-4315-82E6-C0D3EA79BB77
+
+CCompileC Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/x86_64/iCaxirolaTests.o /Users/fumiharu/iCaxirola/iCaxirolaTests/iCaxirolaTests.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCopyStringsFile /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/en.lproj/InfoPlist.strings iCaxirolaTests/en.lproj/InfoPlist.strings
+s416883103.590108
+e416883103.593648
+r1
+xCopyStringsFile
+x/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/en.lproj/InfoPlist.strings
+xiCaxirolaTests/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy iCaxirolaTests/en.lproj/InfoPlist.strings143"CopyStringsFile Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/en.lproj/InfoPlist.strings iCaxirolaTests/en.lproj/InfoPlist.strings2926979f21d9b841^c6f9979f21d9b841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/fumiharu/iCaxirola/iCaxirolaTests/en.lproj/InfoPlist.strings0000000000000000^601"CopyStringsFile Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/en.lproj/InfoPlist.strings iCaxirolaTests/en.lproj/InfoPlist.strings    cd /Users/fumiharu/iCaxirola    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/en.lproj -- iCaxirolaTests/en.lproj/InfoPlist.strings36"B5844FB1-D68B-44BC-A9CD-C25A861CA804-
+b9DB90876-4EBF-4F60-BA0A-33AF6AF21297
+
+CGenerateDSYMFile /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest.dSYM /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/iCaxirolaTests
+s417106995.163915
+e417106995.210996
+r1
+xGenerateDSYMFile
+x/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest.dSYM
+x/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/iCaxirolaTests
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Generate /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest.dSYM154"GenerateDSYMFile Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest.dSYM Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/iCaxirolaTests12112a338cdcb841^350936338cdcb841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest.dSYM/0000000000000000^827"GenerateDSYMFile Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest.dSYM Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/iCaxirolaTests    cd /Users/fumiharu/iCaxirola    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/iCaxirolaTests -o /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest.dSYM36"F07DBA51-9C1E-4829-9188-B89FA76954C4-
+bFD151085-0BC0-4CB8-B4F4-E53C2A071B80
+
+CLd /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/iCaxirolaTests normal i386
+s417106995.105783
+e417106995.161723
+r1
+xLd
+x/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/iCaxirolaTests
+xnormal
+xi386
+d/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/iCaxirolaTests.LinkFileList
+d/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/bundle1.o
+d/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/KIFiCaxirolaTests.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/SenTestingKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks/XCTest.framework/XCTest
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/libPods-iCaxirolaTests.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Link /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/iCaxirolaTests88"Ld Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/iCaxirolaTests normal i38652281b338cdcb841^55892a338cdcb841^---0#0#1#--1968"Ld Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/iCaxirolaTests normal i386    cd /Users/fumiharu/iCaxirola    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator -F/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/iCaxirolaTests.LinkFileList -bundle_loader /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework CoreGraphics -framework SenTestingKit -framework XCTest -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework XCTest -framework UIKit -framework Foundation -lPods-iCaxirolaTests -Xlinker -dependency_info -Xlinker /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/i386/iCaxirolaTests_dependency_info.dat -o /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/iCaxirolaTests36"DD031776-6384-494C-B6A3-6F17C6DA34D4-
+bFD151085-0BC0-4CB8-B4F4-E53C2A071B80
+
+CLd /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/iCaxirolaTests normal x86_64
+s417106909.947788
+e417106909.983869
+r0
+xLd
+x/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/iCaxirolaTests
+xnormal
+xx86_64
+d/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/x86_64/iCaxirolaTests.LinkFileList
+d/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/bundle1.o
+d/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/x86_64/KIFiCaxirolaTests.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/SenTestingKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks/XCTest.framework/XCTest
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/libPods-iCaxirolaTests.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+oUndefined symbols for architecture x86_64:
+o  "_OBJC_IVAR_$_UITouch._locationInWindow", referenced from:
+o      -[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)
+o      -[UITouch(KIFAdditions) setLocationInWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)
+o  "_OBJC_IVAR_$_UITouch._phase", referenced from:
+o      -[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)
+o      -[UITouch(KIFAdditions) setPhase:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)
+o  "_OBJC_IVAR_$_UITouch._previousLocationInWindow", referenced from:
+o      -[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)
+o      -[UITouch(KIFAdditions) setLocationInWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)
+o  "_OBJC_IVAR_$_UITouch._tapCount", referenced from:
+o      -[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)
+o  "_OBJC_IVAR_$_UITouch._timestamp", referenced from:
+o      -[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)
+o      -[UITouch(KIFAdditions) setPhase:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)
+o      -[UITouch(KIFAdditions) setLocationInWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)
+o  "_OBJC_IVAR_$_UITouch._touchFlags", referenced from:
+o      -[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)
+o  "_OBJC_IVAR_$_UITouch._view", referenced from:
+o      -[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)
+o  "_OBJC_IVAR_$_UITouch._window", referenced from:
+o      -[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)
+old: symbol(s) not found for architecture x86_64
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Link /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/iCaxirolaTests90"Ld Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/iCaxirolaTests normal x86_64abb3f2dd8bdcb841^b5defbdd8bdcb841^-1951"Undefined symbols for architecture x86_64:  "_OBJC_IVAR_$_UITouch._locationInWindow", referenced from:      -[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)      -[UITouch(KIFAdditions) setLocationInWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)  "_OBJC_IVAR_$_UITouch._phase", referenced from:      -[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)      -[UITouch(KIFAdditions) setPhase:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)  "_OBJC_IVAR_$_UITouch._previousLocationInWindow", referenced from:      -[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)      -[UITouch(KIFAdditions) setLocationInWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)  "_OBJC_IVAR_$_UITouch._tapCount", referenced from:      -[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)  "_OBJC_IVAR_$_UITouch._timestamp", referenced from:      -[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)      -[UITouch(KIFAdditions) setPhase:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)      -[UITouch(KIFAdditions) setLocationInWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)  "_OBJC_IVAR_$_UITouch._touchFlags", referenced from:      -[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)  "_OBJC_IVAR_$_UITouch._view", referenced from:      -[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)  "_OBJC_IVAR_$_UITouch._window", referenced from:      -[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)ld: symbol(s) not found for architecture x86_64clang: error: linker command failed with exit code 1 (use -v to see invocation)23(21%IDEActivityLogMessage2@58""_OBJC_IVAR_$_UITouch._locationInWindow", referenced from:-417106909#43#61#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@98"-[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)-417106909#104#105#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@97"-[UITouch(KIFAdditions) setLocationInWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)-417106909#209#104#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@47""_OBJC_IVAR_$_UITouch._phase", referenced from:-417106909#313#50#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@98"-[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)-417106909#363#105#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@86"-[UITouch(KIFAdditions) setPhase:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)-417106909#468#93#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@66""_OBJC_IVAR_$_UITouch._previousLocationInWindow", referenced from:-417106909#561#69#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@98"-[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)-417106909#630#105#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@97"-[UITouch(KIFAdditions) setLocationInWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)-417106909#735#104#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@50""_OBJC_IVAR_$_UITouch._tapCount", referenced from:-417106909#839#53#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@98"-[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)-417106909#892#105#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@51""_OBJC_IVAR_$_UITouch._timestamp", referenced from:-417106909#997#54#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@98"-[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)-417106909#1051#105#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@86"-[UITouch(KIFAdditions) setPhase:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)-417106909#1156#93#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@97"-[UITouch(KIFAdditions) setLocationInWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)-417106909#1249#104#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@52""_OBJC_IVAR_$_UITouch._touchFlags", referenced from:-417106909#1353#55#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@98"-[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)-417106909#1408#105#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@46""_OBJC_IVAR_$_UITouch._view", referenced from:-417106909#1513#49#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@98"-[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)-417106909#1562#105#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@48""_OBJC_IVAR_$_UITouch._window", referenced from:-417106909#1667#51#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@98"-[UITouch(KIFAdditions) initAtPoint:inWindow:] in libPods-iCaxirolaTests.a(UITouch-KIFAdditions.o)-417106909#1718#105#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@43"Symbol(s) not found for architecture x86_64-417106909#1823#48#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-417106909#1871#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--1976"Ld Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/iCaxirolaTests normal x86_64    cd /Users/fumiharu/iCaxirola    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator -F/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/x86_64/iCaxirolaTests.LinkFileList -bundle_loader /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirola.app/iCaxirola -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework CoreGraphics -framework SenTestingKit -framework XCTest -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework XCTest -framework UIKit -framework Foundation -lPods-iCaxirolaTests -Xlinker -dependency_info -Xlinker /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Objects-normal/x86_64/iCaxirolaTests_dependency_info.dat -o /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/iCaxirolaTests36"F74759B1-AFB4-4DB2-B111-09ADE88C3D89-
+b439C2470-67D8-4315-82E6-C0D3EA79BB77
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Script-AEE77C80B2084C41BD0086C9.sh
+s417106995.041371
+e417106995.058360
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Script-AEE77C80B2084C41BD0086C9.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'161"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Script-AEE77C80B2084C41BD0086C9.shd0ec0a338cdcb841^ccf10e338cdcb841^---0#0#1#--350"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Script-AEE77C80B2084C41BD0086C9.sh    cd /Users/fumiharu/iCaxirola    /bin/sh -c /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Script-AEE77C80B2084C41BD0086C9.sh36"113223C5-BE75-4699-9EA4-BBD653C4B9C4-
+bFD151085-0BC0-4CB8-B4F4-E53C2A071B80
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Script-9D19F14566AD48719CE6607B.sh
+s417106995.213894
+e417106995.647171
+r1
+xPhaseScriptExecution
+xCopy Pods Resources
+x/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Script-9D19F14566AD48719CE6607B.sh
+obuilding file list ... done
+o
+osent 29 bytes  received 20 bytes  98.00 bytes/sec
+ototal size is 0  speedup is 0.00
+o/* com.apple.actool.compilation-results */
+o/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/Assets.car
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'156"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Script-9D19F14566AD48719CE6607B.sh2e5737338cdcb841^86ada5338cdcb841^-252"building file list ... donesent 29 bytes  received 20 bytes  98.00 bytes/sectotal size is 0  speedup is 0.00/* com.apple.actool.compilation-results *//Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/Assets.car5(21%IDEActivityLogMessage2@28"building file list ... done-417106995#0#28#-0#-----2@50"sent 29 bytes  received 20 bytes  98.00 bytes/sec-417106995#29#50#-0#-----2@33"total size is 0  speedup is 0.00-417106995#79#33#-0#-----2@43"/* com.apple.actool.compilation-results */-417106995#112#43#-0#-----2@96"/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/Assets.car-417106995#155#96#-0#-----0#0#1#--345"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Script-9D19F14566AD48719CE6607B.sh    cd /Users/fumiharu/iCaxirola    /bin/sh -c /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/Script-9D19F14566AD48719CE6607B.sh36"6DD88E73-6325-4287-A2DA-902619F4510A-
+bFD151085-0BC0-4CB8-B4F4-E53C2A071B80
+
+CProcessInfoPlistFile /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/Info.plist /Users/fumiharu/iCaxirola/iCaxirolaTests/iCaxirolaTests-Info.plist
+s416883102.288799
+e416883102.290546
+r1
+xProcessInfoPlistFile
+x/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/Info.plist
+x/Users/fumiharu/iCaxirola/iCaxirolaTests/iCaxirolaTests-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Process /Users/fumiharu/iCaxirola/iCaxirolaTests/iCaxirolaTests-Info.plist131"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/Info.plist iCaxirolaTests/iCaxirolaTests-Info.plistda024a9e21d9b841^13624a9e21d9b841^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/fumiharu/iCaxirola/iCaxirolaTests/iCaxirolaTests-Info.plist0000000000000000^617"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/Info.plist iCaxirolaTests/iCaxirolaTests-Info.plist    cd /Users/fumiharu/iCaxirola    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/fumiharu/iCaxirola/iCaxirolaTests/iCaxirolaTests-Info.plist -expandbuildsettings -format binary -platform iphonesimulator -o /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest/Info.plist36"C3E5D0EC-D196-48A5-9A31-C781F722D5B4-
+b9DB90876-4EBF-4F60-BA0A-33AF6AF21297
+
+CProcessPCH /Users/fumiharu/Library/Developer/Xcode/DerivedData/iCaxirola-ctzjztvacdoqxscxeckgfgrpeegk/Index/PrecompiledHeaders/iCaxirola-Prefix-eepwkrjiqmgsvxbhyemjcplcmysk_ast/iCaxirola-Prefix.pch.pch iCaxirola/iCaxirola-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/fumiharu/Library/Developer/Xcode/DerivedData/iCaxirola-ctzjztvacdoqxscxeckgfgrpeegk/Index/PrecompiledHeaders/iCaxirola-Prefix-ehmnyurfjgeppvazumtltkvhueup_ast/iCaxirola-Prefix.pch.pch iCaxirola/iCaxirola-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/fumiharu/iCaxirola/Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-bayuwqtinugfbsdlulqarpqxndio/iCaxirola-Prefix.pch.pch iCaxirola/iCaxirola-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416883102.341264
+e416883103.387072
+r1
+xProcessPCH
+x/Users/fumiharu/iCaxirola/Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-bayuwqtinugfbsdlulqarpqxndio/iCaxirola-Prefix.pch.pch
+xiCaxirola/iCaxirola-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/iCaxirola/iCaxirola/iCaxirola-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile iCaxirola/iCaxirola-Prefix.pch219"ProcessPCH Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-bayuwqtinugfbsdlulqarpqxndio/iCaxirola-Prefix.pch.pch iCaxirola/iCaxirola-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbd70579e21d9b841^2f19639f21d9b841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/fumiharu/iCaxirola/iCaxirola/iCaxirola-Prefix.pch0000000000000000^3778"ProcessPCH Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-bayuwqtinugfbsdlulqarpqxndio/iCaxirola-Prefix.pch.pch iCaxirola/iCaxirola-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/iCaxirola    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/iCaxirolaTests-generated-files.hmap -I/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/iCaxirolaTests-own-target-headers.hmap -I/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/iCaxirolaTests-all-target-headers.hmap -iquote /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/iCaxirolaTests-project-headers.hmap -I/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/iCaxirola/Pods/Headers -I/Users/fumiharu/iCaxirola/Pods/Headers/KIF -I/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/DerivedSources/i386 -I/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/DerivedSources -F/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -isystem/Users/fumiharu/iCaxirola/Pods/Headers -isystem/Users/fumiharu/iCaxirola/Pods/Headers/KIF --serialize-diagnostics /Users/fumiharu/iCaxirola/Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-bayuwqtinugfbsdlulqarpqxndio/iCaxirola-Prefix.pch.dia -MMD -MT dependencies -MF /Users/fumiharu/iCaxirola/Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-bayuwqtinugfbsdlulqarpqxndio/iCaxirola-Prefix.pch.d -c /Users/fumiharu/iCaxirola/iCaxirola/iCaxirola-Prefix.pch -o /Users/fumiharu/iCaxirola/Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-bayuwqtinugfbsdlulqarpqxndio/iCaxirola-Prefix.pch.pch36"CE597811-AB67-4A4C-B29E-C72A73FB5775-
+b9DB90876-4EBF-4F60-BA0A-33AF6AF21297
+
+CProcessPCH /Users/fumiharu/iCaxirola/Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-cldpuodxncsmzaelhzjqqlihmfkt/iCaxirola-Prefix.pch.pch iCaxirola/iCaxirola-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417074482.118448
+e417074483.153878
+r1
+xProcessPCH
+x/Users/fumiharu/iCaxirola/Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-cldpuodxncsmzaelhzjqqlihmfkt/iCaxirola-Prefix.pch.pch
+xiCaxirola/iCaxirola-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/iCaxirola/iCaxirola/iCaxirola-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile iCaxirola/iCaxirola-Prefix.pch221"ProcessPCH Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-cldpuodxncsmzaelhzjqqlihmfkt/iCaxirola-Prefix.pch.pch iCaxirola/iCaxirola-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler776a1e320ddcb841^b66627330ddcb841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/fumiharu/iCaxirola/iCaxirola/iCaxirola-Prefix.pch0000000000000000^3935"ProcessPCH Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-cldpuodxncsmzaelhzjqqlihmfkt/iCaxirola-Prefix.pch.pch iCaxirola/iCaxirola-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/iCaxirola    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/heroku/bin:/Users/fumiharu/.nodebrew/current/bin:/usr/java/jdk1.6.0_33/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/iCaxirolaTests-generated-files.hmap -I/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/iCaxirolaTests-own-target-headers.hmap -I/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/iCaxirolaTests-all-target-headers.hmap -iquote /Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/iCaxirolaTests-project-headers.hmap -I/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/include -I/Users/fumiharu/iCaxirola/Pods/Headers -I/Users/fumiharu/iCaxirola/Pods/Headers/KIF -I/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/DerivedSources/x86_64 -I/Users/fumiharu/iCaxirola/Build/Intermediates/iCaxirola.build/Debug-iphonesimulator/iCaxirolaTests.build/DerivedSources -F/Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -isystem/Users/fumiharu/iCaxirola/Pods/Headers -isystem/Users/fumiharu/iCaxirola/Pods/Headers/KIF --serialize-diagnostics /Users/fumiharu/iCaxirola/Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-cldpuodxncsmzaelhzjqqlihmfkt/iCaxirola-Prefix.pch.dia -MMD -MT dependencies -MF /Users/fumiharu/iCaxirola/Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-cldpuodxncsmzaelhzjqqlihmfkt/iCaxirola-Prefix.pch.d -c /Users/fumiharu/iCaxirola/iCaxirola/iCaxirola-Prefix.pch -o /Users/fumiharu/iCaxirola/Build/Intermediates/PrecompiledHeaders/iCaxirola-Prefix-cldpuodxncsmzaelhzjqqlihmfkt/iCaxirola-Prefix.pch.pch36"033F95FF-9948-4599-93D7-9371901C74A1-
+bCD152974-F574-4AA8-9186-595F7227EA4F
+
+CTouch /Users/fumiharu/iCaxirola/Build/Products/Debug-iphonesimulator/iCaxirolaTests.octest
+r0
+

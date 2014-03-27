@@ -8,12 +8,17 @@
 
 #import "AppDelegate.h"
 #import "ViewController.h"
+#import "GAI.h"
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-//        ViewController *vc = [[ViewController alloc]initWithNibName:@"ViewController" bundle:nil];
+    [GAI sharedInstance].trackUncaughtExceptions = YES;
+    [GAI sharedInstance].dispatchInterval = 20;
+    [[[GAI sharedInstance]logger]setLogLevel:kGAILogLevelVerbose];
+    [[GAI sharedInstance]trackerWithTrackingId:@"UA-48711348-1"];
+    
     //UIWindowのサイズをデバイスのディスプレイに合わせて定義する
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     self.window.rootViewController = [[ViewController alloc] initWithNibName:@"ViewController" bundle:nil];

@@ -29,6 +29,7 @@
 - (void)testExample
 {
     XCTFail(@"No implementation for \"%s\"", __PRETTY_FUNCTION__);
+    NSLog(@"成功");
 }
 
 @end

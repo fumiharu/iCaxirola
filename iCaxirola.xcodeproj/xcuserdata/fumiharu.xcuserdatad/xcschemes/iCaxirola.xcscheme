@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0500"
+   LastUpgradeVersion = "0510"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "27500AC618AB87E700703749"
-               BuildableName = "iCaxirolaTests.xctest"
+               BuildableName = "iCaxirolaTests.octest"
                BlueprintName = "iCaxirolaTests"
                ReferencedContainer = "container:iCaxirola.xcodeproj">
             </BuildableReference>

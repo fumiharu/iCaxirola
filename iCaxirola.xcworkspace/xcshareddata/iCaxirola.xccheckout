@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E06F7A04-B472-42A2-A2DC-6920FE0B8E80</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iCaxirola</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C37FDA91-3F70-4BA2-8CFA-5CD7CCA3D2E6</key>
+		<string>ssh://github.com/fumiharu/iCaxirola.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iCaxirola.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C37FDA91-3F70-4BA2-8CFA-5CD7CCA3D2E6</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/fumiharu/iCaxirola.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C37FDA91-3F70-4BA2-8CFA-5CD7CCA3D2E6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C37FDA91-3F70-4BA2-8CFA-5CD7CCA3D2E6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iCaxirola</string>
+		</dict>
+	</array>
+</dict>
+</plist>

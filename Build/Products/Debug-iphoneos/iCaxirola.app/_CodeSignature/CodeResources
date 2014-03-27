@@ -180,6 +180,26 @@
 		<data>
 		Ay+BtOb09TFe2FtDCCH1cLTQWEo=
 		</data>
+		<key>Assets.car</key>
+		<data>
+		1dOroxGO3vuPn/ZXqDu9bQMNv7M=
+		</data>
+		<key>Icon-60.png</key>
+		<data>
+		pMKOBVIbd3hzLfMbI/Fabfai6M0=
+		</data>
+		<key>Icon-60@2x.png</key>
+		<data>
+		MHIKRpEAjCzqOzihTmzkCUfhMA0=
+		</data>
+		<key>Icon-Small.png</key>
+		<data>
+		V9hv4EXWoHWW9Xd5anviJAIo1M8=
+		</data>
+		<key>Icon-Small@2x.png</key>
+		<data>
+		lC7zS1egqgfZWs9zNghhRAfyV+Q=
+		</data>
 		<key>LaunchImage-568h@2x.png</key>
 		<data>
 		V1VdV48TyrImURVWCaose9yz87E=
@@ -204,21 +224,13 @@
 		<data>
 		wPn8yjXZaF7MtTRswrChstuiFRA=
 		</data>
-		<key>ViewController.nib/objects.nib</key>
+		<key>ViewController.nib</key>
 		<data>
-		sSKgt7HDH6qpzdZYYgz1Wh0YV68=
+		x3QRzYXn44yiedZ41VytpUHC+B8=
 		</data>
-		<key>ViewController.nib/runtime.nib</key>
+		<key>WebView.nib</key>
 		<data>
-		K1kszWYeQkkc+hNm2xI5K299AMc=
-		</data>
-		<key>WebView.nib/objects.nib</key>
-		<data>
-		nluJwZkJYcueALLm7y0kfT4FOCw=
-		</data>
-		<key>WebView.nib/runtime.nib</key>
-		<data>
-		xq4oNaNThYXYRPVsubjPh1vcKbc=
+		u1lDsJ9l8wFEA1rsfLz2dByyGEQ=
 		</data>
 		<key>bg-addbutton-highlighted.png</key>
 		<data>
@@ -252,13 +264,17 @@
 		<data>
 		Mo3KAoPJj7+oFeEr/il8O/68qo4=
 		</data>
+		<key>bird.png</key>
+		<data>
+		tz3yit90U44tGo2hO4uezlUs2nE=
+		</data>
 		<key>close.png</key>
 		<data>
 		0hLXll6nUbnfOYthibjr/B2jkOo=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		jPuxwDUA9GWqtizcAXJ6yCklXJo=
+		E80AZcCIm/jRroOQz8hAg7yj4X0=
 		</data>
 		<key>en.lproj/InfoPlist.strings</key>
 		<data>
@@ -315,6 +331,10 @@
 		<key>skin_icon.png</key>
 		<data>
 		+2jiYdDgPLc0bzlKp6qGZYfbonw=
+		</data>
+		<key>stars2.png</key>
+		<data>
+		5ykWCozDUJfyzNNCfuvbMZZJI2s=
 		</data>
 		<key>test.nib/objects.nib</key>
 		<data>
@@ -503,6 +523,26 @@
 		<data>
 		Ay+BtOb09TFe2FtDCCH1cLTQWEo=
 		</data>
+		<key>Assets.car</key>
+		<data>
+		1dOroxGO3vuPn/ZXqDu9bQMNv7M=
+		</data>
+		<key>Icon-60.png</key>
+		<data>
+		pMKOBVIbd3hzLfMbI/Fabfai6M0=
+		</data>
+		<key>Icon-60@2x.png</key>
+		<data>
+		MHIKRpEAjCzqOzihTmzkCUfhMA0=
+		</data>
+		<key>Icon-Small.png</key>
+		<data>
+		V9hv4EXWoHWW9Xd5anviJAIo1M8=
+		</data>
+		<key>Icon-Small@2x.png</key>
+		<data>
+		lC7zS1egqgfZWs9zNghhRAfyV+Q=
+		</data>
 		<key>LaunchImage-568h@2x.png</key>
 		<data>
 		V1VdV48TyrImURVWCaose9yz87E=
@@ -527,21 +567,13 @@
 		<data>
 		wPn8yjXZaF7MtTRswrChstuiFRA=
 		</data>
-		<key>ViewController.nib/objects.nib</key>
+		<key>ViewController.nib</key>
 		<data>
-		sSKgt7HDH6qpzdZYYgz1Wh0YV68=
+		x3QRzYXn44yiedZ41VytpUHC+B8=
 		</data>
-		<key>ViewController.nib/runtime.nib</key>
+		<key>WebView.nib</key>
 		<data>
-		K1kszWYeQkkc+hNm2xI5K299AMc=
-		</data>
-		<key>WebView.nib/objects.nib</key>
-		<data>
-		nluJwZkJYcueALLm7y0kfT4FOCw=
-		</data>
-		<key>WebView.nib/runtime.nib</key>
-		<data>
-		xq4oNaNThYXYRPVsubjPh1vcKbc=
+		u1lDsJ9l8wFEA1rsfLz2dByyGEQ=
 		</data>
 		<key>bg-addbutton-highlighted.png</key>
 		<data>
@@ -575,13 +607,17 @@
 		<data>
 		Mo3KAoPJj7+oFeEr/il8O/68qo4=
 		</data>
+		<key>bird.png</key>
+		<data>
+		tz3yit90U44tGo2hO4uezlUs2nE=
+		</data>
 		<key>close.png</key>
 		<data>
 		0hLXll6nUbnfOYthibjr/B2jkOo=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		jPuxwDUA9GWqtizcAXJ6yCklXJo=
+		E80AZcCIm/jRroOQz8hAg7yj4X0=
 		</data>
 		<key>en.lproj/InfoPlist.strings</key>
 		<data>
@@ -638,6 +674,10 @@
 		<key>skin_icon.png</key>
 		<data>
 		+2jiYdDgPLc0bzlKp6qGZYfbonw=
+		</data>
+		<key>stars2.png</key>
+		<data>
+		5ykWCozDUJfyzNNCfuvbMZZJI2s=
 		</data>
 		<key>test.nib/objects.nib</key>
 		<data>

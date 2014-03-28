@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="5053" systemVersion="13C64" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
     <dependencies>
         <deployment defaultVersion="1792" identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="4510" systemVersion="13C64" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
@@ -25,9 +28,12 @@
             <connections>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 <outlet property="mainCaxirola" destination="gg0-v7-vQC" id="jT1-sO-fqb"/>
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
                 <outlet property="mainCaxirola" destination="SHl-6S-BjC" id="z57-Ep-0R2"/>
@@ -46,8 +52,11 @@
             <subviews>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
                 <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="SHl-6S-BjC">
@@ -75,7 +84,11 @@
             </subviews>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             <color key="backgroundColor" red="1" green="0.97934633091704248" blue="0.94213496437993649" alpha="1" colorSpace="calibratedRGB"/>
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
@@ -89,9 +102,12 @@
     </objects>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 </document>
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
@@ -100,6 +116,10 @@
     </resources>
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 <<<<<<< HEAD
+<<<<<<< HEAD
+</document>
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 </document>
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======

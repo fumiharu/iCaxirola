@@ -11,10 +11,13 @@
 #import <Social/Social.h>
 #import <QuartzCore/QuartzCore.h>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 #import <Social/Social.h>
 #import <QuartzCore/QuartzCore.h>
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 #import "Params.h"
@@ -37,7 +40,11 @@
 @property (nonatomic, strong) IBOutlet UIImageView *mainCaxirola;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 @property (nonatomic, strong) NSUserDefaults *ud1;
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5

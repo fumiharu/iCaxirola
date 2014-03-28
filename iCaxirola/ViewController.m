@@ -11,7 +11,11 @@
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #import "UIView+iCaxirola.h"
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
@@ -30,8 +34,11 @@
     SystemSoundID soundSystem;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
@@ -42,7 +49,10 @@
     UIView *flagsListWindow;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     UIView *star;
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
@@ -54,11 +64,14 @@
     NSArray *arrayKeys;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     CALayer* layerlist[FIRE_COUNT];
 }
 
 @property (strong, nonatomic) IBOutlet UIWebView *WebView;
 =======
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 }
@@ -69,6 +82,9 @@
 - (IBAction)settingBtn:(id)sender;
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
@@ -153,9 +169,12 @@
     [UIApplication sharedApplication].statusBarHidden = YES;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     _mainCaxirola.image = [UIImage imageNamed:k_BRA];
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
     
@@ -174,6 +193,9 @@
     //    self.mainCaxirola.image = [UIImage imageNamed:kBRA];
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
@@ -189,6 +211,7 @@
     SoundAudio0 = [[AVAudioPlayer alloc] initWithContentsOfURL:url1 error:nil];
     [SoundAudio0 prepareToPlay];
 <<<<<<< HEAD
+<<<<<<< HEAD
 
     NSURL *url2 = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"maracas1" ofType:@"wav"]];
 =======
@@ -196,6 +219,8 @@
     NSURL *url1 = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"maracas0" ofType:@"wav"]];
     SoundAudio0 = [[AVAudioPlayer alloc] initWithContentsOfURL:url1 error:nil];
     [SoundAudio0 prepareToPlay];
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
     
@@ -208,6 +233,9 @@
     NSURL *url2 = [NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"maracas-reverse" ofType:@"wav"]];
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
@@ -292,6 +320,9 @@
     
     
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
@@ -340,6 +371,7 @@
      
      */
     
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 //    [self.view addSubview:menu];
@@ -654,6 +686,11 @@
     [self.view addSubview:menu];
 }
 
+=======
+    [self.view addSubview:menu];
+}
+
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 - (void)awesomeMenu:(AwesomeMenu *)menu didSelectIndex:(NSInteger)idx
 {
     NSArray *ServiceType = [NSArray arrayWithObjects:SLServiceTypeFacebook, SLServiceTypeTwitter, nil];
@@ -822,6 +859,9 @@
 }
 
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 
 - (void)didReceiveMemoryWarning
@@ -832,6 +872,7 @@
 <<<<<<< HEAD
 //-(void)touchesMoved:(NSSet *)touches withEvent:(UIEvent *)event
 <<<<<<< HEAD
+<<<<<<< HEAD
 //-(void)swipeGesture:(UITapGestureRecognizer*)sender
 //{
 //    [SoundAudio0 play];
@@ -840,6 +881,8 @@
 =======
 <<<<<<< HEAD
 //-(void)touchesMoved:(NSSet *)touches withEvent:(UIEvent *)event
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 ////-(void)swipeGesture:(UITapGestureRecognizer*)sender
@@ -856,6 +899,9 @@
 }
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
@@ -870,8 +916,11 @@
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 - (IBAction)settingBtn:(id)sender {
@@ -899,6 +948,9 @@
 }
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5

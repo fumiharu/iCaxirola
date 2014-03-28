@@ -12,7 +12,11 @@
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #import "ViewController.h"
+=======
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
@@ -30,7 +34,12 @@
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     bannerView.rootViewController = (UIViewController*)self;
+=======
+    bannerView.rootViewController = self;
+>>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
     bannerView.rootViewController = self;
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
@@ -46,10 +55,14 @@
 <<<<<<< HEAD
 - (void)aniani:(UIView*)vieww{
 <<<<<<< HEAD
+<<<<<<< HEAD
 //-(void)addSubview:(UIView *)view ob:(UIView *)vieww{
 =======
 <<<<<<< HEAD
 - (void)aniani:(UIView*)vieww{
+
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
@@ -66,7 +79,11 @@
     vieww.alpha = 0.9;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 //    [UIView commitAnimations];
+=======
+    //    [UIView commitAnimations];
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
     //    [UIView commitAnimations];
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
@@ -88,10 +105,13 @@
     fff.alpha = 0.9;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 //    [UIView commitAnimations];
     return fff;
 }
 =======
+=======
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
     //    [UIView commitAnimations];
@@ -104,6 +124,9 @@
 =======
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5

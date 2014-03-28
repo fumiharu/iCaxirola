@@ -28,6 +28,9 @@ dependencies: /Users/fumiharu/iCaxirola/iCaxirola/UIView+iCaxirola.m \
   /Users/fumiharu/iCaxirola/iCaxirola/Params.h
 >>>>>>> df7ef883f1e04b617e1c58ecbd818f688ad3eaf7
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
+=======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
 =======
 >>>>>>> 66b3e1866fb3e3917ddd79772920c80b6c58bed5
